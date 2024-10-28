@@ -11050,49 +11050,258 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle: Yes
-AI: Check Bad Move
-Party Size: 2
+Double Battle: No
+AI: Check Bad Move / Check Viability / Try To Faint
+Party Size: 6
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark @ Assault Vest
+Level: 95
+Ability: Illusion
+EVs: 252 HP / 4 SpA / 252 Spe
+Modest Nature
+- U-turn
+- Dark Pulse
+- Sludge Bomb
+- Flamethrower
 
-Shroomish
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark-Hisui @ Assault Vest
+Level: 95
+Ability: Illusion
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Psychic
+- U-turn
+- Hyper Voice
 
-Dratini
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark @ Focus Sash
+Level: 95
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Nasty Plot
+- Dark Pulse
+- Flamethrower
+- Protect
 
-Bagon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark-Hisui @ Focus Sash
+Level: 95
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Nasty Plot
+- Hyper Voice
+- Shadow Ball
+- Protect
 
-Psyduck
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark @ Life Orb
+Level: 95
+Ability: Illusion
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Knock Off
+- U-turn
+- Crunch
+- Sucker Punch
 
-Shellder
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark-Hisui @ Life Orb
+Level: 95
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Dark Pulse
+- Hex
+- Flamethrower
+- Protect
 
-Vulpix
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark-Hisui @ Choice Specs
+Level: 95
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Flamethrower
+- Hyper Voice
+- Shadow Ball
+- Sludge Bomb
 
-Mew
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark-Hisui @ Choice Scarf
+Level: 95
+Ability: Illusion
+EVs: 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Flamethrower
+- Hex
+- Hyper Voice
+- Sludge Bomb
 
-Giratina
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark-Hisui @ Rocky Helmet
+Level: 95
+Ability: Illusion
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Bitter Malice
+- Will-O-Wisp
+- Pain Split
+- Protect
 
-Skitty
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zoroark @ Choice Band
+Level: 95
+Ability: Illusion
+Tera Type: Dark
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- U-turn
+- Knock Off
+- Sucker Punch
+- Brick Break
+
+Zoroark @ Choice Scarf
+Level: 95
+Ability: Illusion
+Tera Type: Dark
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Dark Pulse
+- Flamethrower
+- Grass Knot
+- U-turn
+
+Zoroark @ Focus Sash
+Level: 95
+Ability: Illusion
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Encore
+- Knock Off
+- Toxic
+- U-turn
+
+Infernape @ Sitrus Berry
+Level: 95
+Ability: Iron Fist
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Drain Punch
+- Fire Punch
+- Mach Punch
+- Swords Dance
+
+Infernape @ Salac Berry
+Level: 95
+Ability: Blaze
+EVs: 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Aura Sphere
+- Encore
+- Flamethrower
+- Endure
+
+Infernape @ Choice Band
+Level: 95
+Ability: Blaze
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- Earthquake
+- Raging Fury
+- U-turn
+
+Sneasler @ Focus Sash
+Level: 95
+Ability: Unburden
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Acrobatics
+- Dire Claw
+- Close Combat
+- U-turn
+
+Sneasler @ Life Orb
+Level: 95
+Ability: Poison Touch
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- U-turn
+
+Sneasler @ Assault Vest
+Level: 95
+Ability: Poison Touch
+EVs: 252 HP / 4 Atk / 252 SpD
+Adamant Nature
+- Fake Out
+- U-turn
+- Close Combat
+- Dire Claw
+
+Aggron @ Assault Vest
+Level: 95
+Ability: Rock Head
+EVs: 252 HP / 4 Atk / 252 SpD
+Adamant Nature
+- Head Smash
+- Iron Head
+- Body Press
+- Earthquake
+
+Aggron @ Rocky Helmet
+Level: 95
+Ability: Sturdy
+EVs: 252 HP / 4 Atk / 252 SpD
+Careful Nature
+- Metal Burst
+- Earthquake
+- Stealth Rock
+- Body Press
+
+Aggron @ Leftovers
+Level: 95
+Ability: Sturdy
+EVs: 252 HP / 4 Atk / 252 SpD
+Careful Nature
+- Curse
+- Iron Head
+- Rock Slide
+- Protect
+
+Incineroar @ Leftovers
+Level: 95
+Ability: Blaze
+EVs: 252 HP / 4 Atk / 252 SpD
+Careful Nature
+- Flare Blitz
+- Bulk Up
+- Darkest Lariat
+- Protect
+
+Incineroar @ Assault Vest
+Level: 95
+Ability: Blaze
+EVs: 252 HP / 252 Atk
+Adamant Nature
+- U-turn
+- Close Combat
+- Darkest Lariat
+- Flare Blitz
+
+Incineroar @ Sitrus Berry
+Level: 95
+Ability: Blaze
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Fake Out
+- U-turn
+- Flare Blitz
+- Leech Life
 
 === TRAINER_HALEY_1 ===
 Name: HALEY

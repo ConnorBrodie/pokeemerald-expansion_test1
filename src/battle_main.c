@@ -1949,6 +1949,26 @@ u8 GetPoolIndex(u8 poolSize, u8 currNumMons, u16 *chosenSpecies, const struct Tr
     return rnd;
 }
 
+static void FixIllusionPartyPos(struct Pokemon *party, u32 partySize)
+{
+    struct Pokemon tempMon;
+    u16 lastMonSpecies = GetMonData(&party[partySize - 1], MON_DATA_SPECIES);
+    if (lastMonSpecies == 571 || lastMonSpecies == 1003)
+    {
+        for (u32 i = 1; i < partySize - 2; i++)
+        {
+            u16 currSpecies = GetMonData(&party[i], MON_DATA_SPECIES);
+            if (currSpecies != 571 && currSpecies != 1003)
+            {
+                tempMon = party[partySize - 1];
+                party[partySize - 1] = party[i];
+                party[i] = tempMon;
+                break;
+            }
+        }
+    }
+}
+
 u8 CreateNPCTrainerPartyFromTrainer(struct Pokemon *party, const struct Trainer *trainer, bool32 firstTrainer, u32 battleTypeFlags)
 {
     u32 personalityValue;
@@ -2192,6 +2212,7 @@ u8 CreateNPCTrainerPartyFromTrainer(struct Pokemon *party, const struct Trainer 
                     SetMonData(&party[i], MON_DATA_POKEBALL, &ball);
                 }
             }
+            FixIllusionPartyPos(party, monsCount);
         }
     }
 
