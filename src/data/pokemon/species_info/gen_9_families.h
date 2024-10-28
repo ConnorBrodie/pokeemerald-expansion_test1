@@ -1019,8 +1019,8 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .height = 3,
         .weight = 25,
         .description = COMPOUND_STRING(
-            "The pads of its paws are\n"
-            "electricity-discharging organs. Pawmi fires\n"
+            "The pads of its paws are electricity-\n"
+            "discharging organs. Pawmi fires\n"
             "electricity from its forepaws while\n"
             "standing unsteadily on its hind legs."),
         .pokemonScale = 356,
@@ -3215,12 +3215,12 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .iconSprite = gMonIcon_Scovillain,
         .iconPalIndex = 1,
         FOOTPRINT(Scovillain)
-        OVERWORLD(
+        OVERWORLD_SET_ANIM(
             sPicTable_Scovillain,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            //sAnimTable_Following_Asym,
+            sAnimTable_Following_Asym,
             gOverworldPalette_Scovillain,
             gShinyOverworldPalette_Scovillain
         )
@@ -3526,12 +3526,12 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .iconSprite = gMonIcon_Tinkatink,
         .iconPalIndex = 1,
         FOOTPRINT(Tinkatink)
-        OVERWORLD(
+        OVERWORLD_SET_ANIM(
             sPicTable_Tinkatink,
             SIZE_32x32,
             SHADOW_SIZE_S,
             TRACKS_FOOT,
-            //sAnimTable_Following_Asym,
+            sAnimTable_Following_Asym,
             gOverworldPalette_Tinkatink,
             gShinyOverworldPalette_Tinkatink
         )
@@ -3589,12 +3589,12 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .iconSprite = gMonIcon_Tinkatuff,
         .iconPalIndex = 1,
         FOOTPRINT(Tinkatuff)
-        OVERWORLD(
+        OVERWORLD_SET_ANIM(
             sPicTable_Tinkatuff,
             SIZE_32x32,
             SHADOW_SIZE_S,
             TRACKS_FOOT,
-            //sAnimTable_Following_Asym,
+            sAnimTable_Following_Asym,
             gOverworldPalette_Tinkatuff,
             gShinyOverworldPalette_Tinkatuff
         )
@@ -3651,12 +3651,12 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .iconSprite = gMonIcon_Tinkaton,
         .iconPalIndex = 1,
         FOOTPRINT(Tinkaton)
-        OVERWORLD(
+        OVERWORLD_SET_ANIM(
             sPicTable_Tinkaton,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            //sAnimTable_Following_Asym,
+            sAnimTable_Following_Asym,
             gOverworldPalette_Tinkaton,
             gShinyOverworldPalette_Tinkaton
         )
@@ -3939,8 +3939,8 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .height = 13,
         .weight = 602,
         .description = COMPOUND_STRING(
-            "This Pokémon changes its\n"
-            "appearance if it hears its allies calling for\n"
+            "This Pokémon changes its appearance\n"
+            "if it hears its allies calling for\n"
             "help. Palafin will never show\n"
             "anybody its moment of transformation."),
         .pokemonScale = 356,
@@ -4002,8 +4002,8 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 974,
         .description = COMPOUND_STRING(
             "This Pokémon's ancient genes have\n"
-            "awakened. It is now so\n"
-            "extraordinarily strong that it can easily lift a\n"
+            "awakened. It is now so extraordinarily\n"
+            "strong that it can easily lift a\n"
             "cruise ship with one fin."),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -7237,7 +7237,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
             TRACKS_FOOT,
             gOverworldPalette_Fezandipiti,
             gShinyOverworldPalette_Fezandipiti
-        )        
+        )
         .isLegendary = TRUE,
         .levelUpLearnset = sFezandipitiLevelUpLearnset,
         .teachableLearnset = sFezandipitiTeachableLearnset,
