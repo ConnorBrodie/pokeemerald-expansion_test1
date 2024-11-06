@@ -1755,10 +1755,11 @@ static u16 CalculateBoxMonChecksum(struct BoxPokemon *boxMon)
     return checksum;
 }
 
+//CHANGED REMOVED +ev / 4 from this calculation after + iv
 #define CALC_STAT(base, iv, ev, statIndex, field)               \
 {                                                               \
     u8 baseStat = gSpeciesInfo[species].base;                   \
-    s32 n = (((2 * baseStat + iv + ev / 4) * level) / 100) + 5; \
+    s32 n = (((2 * baseStat + iv) * level) / 100) + 5; \
     n = ModifyStatByNature(nature, n, statIndex);               \
     if (B_FRIENDSHIP_BOOST == TRUE)                             \
         n = n + ((n * 10 * friendship) / (MAX_FRIENDSHIP * 100));\
@@ -5300,8 +5301,9 @@ void MonGainEVs(struct Pokemon *mon, u16 defeatedSpecies)
             evIncrease = val1 - val2;
         }
 
-        evs[i] += evIncrease;
-        totalEVs += evIncrease;
+        evIncrease = 0; //CHANGED added this line
+        evs[i] += evIncrease; 
+        totalEVs += evIncrease; 
         SetMonData(mon, MON_DATA_HP_EV + i, &evs[i]);
     }
 }
@@ -5314,7 +5316,7 @@ u16 GetMonEVCount(struct Pokemon *mon)
     for (i = 0; i < NUM_STATS; i++)
         count += GetMonData(mon, MON_DATA_HP_EV + i, 0);
 
-    return count;
+    return count; 
 }
 
 void RandomlyGivePartyPokerus(struct Pokemon *party)

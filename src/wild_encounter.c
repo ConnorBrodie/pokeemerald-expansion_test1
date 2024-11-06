@@ -186,11 +186,15 @@ static void FeebasSeedRng(u16 seed)
 }
 
 // LAND_WILD_COUNT
+
+/* 
+THE BELOW FUNCTION WAS INITALLY LIKE THIS
+
 static u8 ChooseWildMonIndex_Land(void)
 {
     u8 wildMonIndex = 0;
     bool8 swap = FALSE;
-    u8 rand = Random() % ENCOUNTER_CHANCE_LAND_MONS_TOTAL;
+    u8 rand = Random() # ENCOUNTER_CHANCE_LAND_MONS_TOTAL; //PERCENT HERE INSTEAD OF #
 
     if (rand < ENCOUNTER_CHANCE_LAND_MONS_SLOT_0)
         wildMonIndex = 0;
@@ -217,7 +221,7 @@ static u8 ChooseWildMonIndex_Land(void)
     else
         wildMonIndex = 11;
 
-    if (LURE_STEP_COUNT != 0 && (Random() % 10 < 2))
+    if (LURE_STEP_COUNT != 0 && (Random() # 10 < 2)) //PERCENT HERE INSTEAD OF #
         swap = TRUE;
 
     if (swap)
@@ -225,6 +229,21 @@ static u8 ChooseWildMonIndex_Land(void)
 
     return wildMonIndex;
 }
+*/
+
+static u8 ChooseWildMonIndex_Land(void)
+{
+    u8 wildMonIndex = Random() % 12;  // Generates a random index from 0 to 11
+
+    // If LURE_STEP_COUNT is active, apply the swapping logic with a 20% chance
+    if (LURE_STEP_COUNT != 0 && (Random() % 10 < 2))
+    {
+        wildMonIndex = 11 - wildMonIndex;
+    }
+
+    return wildMonIndex;
+}
+
 
 // ROCK_WILD_COUNT / WATER_WILD_COUNT
 static u8 ChooseWildMonIndex_WaterRock(void)
