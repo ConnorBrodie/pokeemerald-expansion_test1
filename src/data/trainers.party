@@ -5009,7 +5009,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Electric Terrain
 - Nuzzle
 
-Arcozolt @ Chesto Berry
+Arctozolt @ Chesto Berry
 Level: 38
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -5018,7 +5018,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Rest
 
-Oricorio-Pom-Pom @ Lum Bery
+Oricorio-Pom-Pom @ Lum Berry
 Level: 38
 Ability: Dancer
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -6160,36 +6160,6 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 - Dig
 
-Rattata @ Oran Berry
-Level: 1
-Ability: Gluttony
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Scratch
-
-Rattata @ Oran Berry
-Level: 2
-Ability: Gluttony
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Scratch
-
-Rattata @ Oran Berry
-Level: 3
-Ability: Gluttony
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Scratch
-
-Rattata @ Oran Berry
-Level: 4
-Ability: Gluttony
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Scratch
-
-Rattata @ Oran Berry
-Level: 5
-Ability: Gluttony
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Scratch
-
 === TRAINER_BILLY ===
 Name: BILLY
 Class: Youngster
@@ -6207,15 +6177,6 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Swagger
 - Sand Attack
 - Bite
-
-Makuhita @ Flame Orb
-Level: 15
-Ability: Guts
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
-- Arm Thrust
-- Whirlwind
-- Knock Off
 
 Makuhita @ Flame Orb
 Level: 15
