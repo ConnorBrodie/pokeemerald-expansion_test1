@@ -6131,6 +6131,7 @@ Gender: Male
 Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
 Sentret @ Lum Berry
 Level: 14
@@ -6158,6 +6159,36 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Headbutt
 - Hone Claws
 - Dig
+
+Rattata @ Oran Berry
+Level: 1
+Ability: Gluttony
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scratch
+
+Rattata @ Oran Berry
+Level: 2
+Ability: Gluttony
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scratch
+
+Rattata @ Oran Berry
+Level: 3
+Ability: Gluttony
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scratch
+
+Rattata @ Oran Berry
+Level: 4
+Ability: Gluttony
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scratch
+
+Rattata @ Oran Berry
+Level: 5
+Ability: Gluttony
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scratch
 
 === TRAINER_BILLY ===
 Name: BILLY
