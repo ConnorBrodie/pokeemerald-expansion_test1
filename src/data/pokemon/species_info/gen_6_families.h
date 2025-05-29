@@ -1740,7 +1740,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .backPic = gMonBackPic_FloetteEternalFlower,
         .backPicSize = MON_COORDS_SIZE(64, 64),
         .backPicYOffset = 2,
-        .levelUpLearnset = sFloetteEternalLevelUpLearnset,
+        .levelUpLearnset = sFloetteEternalFlowerLevelUpLearnset,
         .teachableLearnset = sFloetteEternalFlowerTeachableLearnset,
     },
 
@@ -2287,7 +2287,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_MeowsticMale,
             gShinyOverworldPalette_MeowsticMale
         )
-        .levelUpLearnset = sMeowsticMLevelUpLearnset,
+        .levelUpLearnset = sMeowsticMaleLevelUpLearnset,
         .teachableLearnset = sMeowsticMaleTeachableLearnset,
         .formSpeciesIdTable = sMeowsticFormSpeciesIdTable,
     },
@@ -2348,7 +2348,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_MeowsticFemale,
             gShinyOverworldPalette_MeowsticFemale
         )
-        .levelUpLearnset = sMeowsticFLevelUpLearnset,
+        .levelUpLearnset = sMeowsticFemaleLevelUpLearnset,
         .teachableLearnset = sMeowsticFemaleTeachableLearnset,
         .formSpeciesIdTable = sMeowsticFormSpeciesIdTable,
     },
@@ -4176,8 +4176,8 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gShinyOverworldPalette_SliggooHisuian
         )
         .isHisuianForm = TRUE,
-        .levelUpLearnset = sSliggooHisuiLevelUpLearnset,
-        .teachableLearnset = sSliggooHisuiTeachableLearnset,
+        .levelUpLearnset = sSliggooHisuianLevelUpLearnset,
+        .teachableLearnset = sSliggooHisuianTeachableLearnset,
         .formSpeciesIdTable = sSliggooFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_LEVEL_RAIN, 50, SPECIES_GOODRA_HISUIAN},
                                 {EVO_LEVEL_FOG, 50, SPECIES_GOODRA_HISUIAN}),
@@ -4240,8 +4240,8 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gShinyOverworldPalette_GoodraHisuian
         )
         .isHisuianForm = TRUE,
-        .levelUpLearnset = sGoodraHisuiLevelUpLearnset,
-        .teachableLearnset = sGoodraHisuiTeachableLearnset,
+        .levelUpLearnset = sGoodraHisuianLevelUpLearnset,
+        .teachableLearnset = sGoodraHisuianTeachableLearnset,
         .formSpeciesIdTable = sGoodraFormSpeciesIdTable,
     },
 #endif //P_HISUIAN_FORMS
@@ -5129,8 +5129,8 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gShinyOverworldPalette_AvaluggHisuian
         )
         .isHisuianForm = TRUE,
-        .levelUpLearnset = sAvaluggHisuiLevelUpLearnset,
-        .teachableLearnset = sAvaluggHisuiTeachableLearnset,
+        .levelUpLearnset = sAvaluggHisuianLevelUpLearnset,
+        .teachableLearnset = sAvaluggHisuianTeachableLearnset,
         .formSpeciesIdTable = sAvaluggFormSpeciesIdTable,
     },
 #endif //P_HISUIAN_FORMS

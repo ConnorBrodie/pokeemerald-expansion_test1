@@ -677,7 +677,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
             gOverworldPalette_OinkologneMale,
             gShinyOverworldPalette_OinkologneMale
         )
-        .levelUpLearnset = sOinkologneMLevelUpLearnset,
+        .levelUpLearnset = sOinkologneMaleLevelUpLearnset,
         .teachableLearnset = sOinkologneTeachableLearnset,
         .formSpeciesIdTable = sOinkologneFormSpeciesIdTable,
     },
@@ -738,7 +738,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
             gOverworldPalette_OinkologneFemale,
             gShinyOverworldPalette_OinkologneFemale
         )
-        .levelUpLearnset = sOinkologneFLevelUpLearnset,
+        .levelUpLearnset = sOinkologneFemaleLevelUpLearnset,
         .teachableLearnset = sOinkologneTeachableLearnset,
         .formSpeciesIdTable = sOinkologneFormSpeciesIdTable,
     },

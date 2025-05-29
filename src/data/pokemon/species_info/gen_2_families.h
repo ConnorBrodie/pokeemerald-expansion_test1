@@ -454,8 +454,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_TyphlosionHisuian
         )
         .isHisuianForm = TRUE,
-        .levelUpLearnset = sTyphlosionHisuiLevelUpLearnset,
-        .teachableLearnset = sTyphlosionHisuiTeachableLearnset,
+        .levelUpLearnset = sTyphlosionHisuianLevelUpLearnset,
+        .teachableLearnset = sTyphlosionHisuianTeachableLearnset,
         .formSpeciesIdTable = sTyphlosionFormSpeciesIdTable,
     },
 #endif //P_HISUIAN_FORMS
@@ -3014,9 +3014,9 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_WooperPaldean
         )
         .isPaldeanForm = TRUE,
-        .levelUpLearnset = sWooperPaldeaLevelUpLearnset,
-        .teachableLearnset = sWooperPaldeaTeachableLearnset,
-        .eggMoveLearnset = sWooperPaldeaEggMoveLearnset,
+        .levelUpLearnset = sWooperPaldeanLevelUpLearnset,
+        .teachableLearnset = sWooperPaldeanTeachableLearnset,
+        .eggMoveLearnset = sWooperPaldeanEggMoveLearnset,
         .formSpeciesIdTable = sWooperFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_LEVEL, 20, SPECIES_CLODSIRE}),
     },
@@ -4429,8 +4429,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_QwilfishHisuian
         )
         .isHisuianForm = TRUE,
-        .levelUpLearnset = sQwilfishHisuiLevelUpLearnset,
-        .teachableLearnset = sQwilfishHisuiTeachableLearnset,
+        .levelUpLearnset = sQwilfishHisuianLevelUpLearnset,
+        .teachableLearnset = sQwilfishHisuianTeachableLearnset,
         .formSpeciesIdTable = sQwilfishFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_MOVE, MOVE_BARB_BARRAGE, SPECIES_OVERQWIL}),
     },
@@ -4897,8 +4897,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_SneaselHisuian
         )
         .isHisuianForm = TRUE,
-        .levelUpLearnset = sSneaselHisuiLevelUpLearnset,
-        .teachableLearnset = sSneaselHisuiTeachableLearnset,
+        .levelUpLearnset = sSneaselHisuianLevelUpLearnset,
+        .teachableLearnset = sSneaselHisuianTeachableLearnset,
         .formSpeciesIdTable = sSneaselFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_ITEM_HOLD_DAY, ITEM_RAZOR_CLAW, SPECIES_SNEASLER},
                                 {EVO_ITEM_DAY, ITEM_RAZOR_CLAW, SPECIES_SNEASLER}),
@@ -5693,9 +5693,9 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_CorsolaGalarian
         )
         .isGalarianForm = TRUE,
-        .levelUpLearnset = sCorsolaGalarLevelUpLearnset,
-        .teachableLearnset = sCorsolaGalarTeachableLearnset,
-        .eggMoveLearnset = sCorsolaGalarEggMoveLearnset,
+        .levelUpLearnset = sCorsolaGalarianLevelUpLearnset,
+        .teachableLearnset = sCorsolaGalarianTeachableLearnset,
+        .eggMoveLearnset = sCorsolaGalarianEggMoveLearnset,
         .formSpeciesIdTable = sCorsolaFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_LEVEL, 38, SPECIES_CURSOLA}),
     },
