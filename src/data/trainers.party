@@ -46,7 +46,7 @@ Optional fields for Pokemon:
           (Order does not matter)
     - EVs (252 HP / 128 Spe / 48 Def, defaults to all 0, is not capped at 512 total)
           (Order does not matter)
-    - Ball (Poke Ball or ITEM_POKE_BALL, defaults to Poke Ball
+    - Ball (Poke Ball or ITEM_POKE_BALL, defaults to Poke Ball)
     - Happiness (Number between 1 and 255)
     - Nature (Rash or NATURE_RASH, defaults to Hardy)
     - Shiny (Yes/No, defaults to No)
@@ -230,10 +230,10 @@ Gender: Male
 Music: Aqua
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
-Party Size: 3
+Party Size: 2
 
 Dreepy @ Lum Berry
-Level: 10
+Level: 8
 Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Will-O-Wisp
@@ -242,7 +242,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Confuse Ray
 
 Pawniard @ Lum Berry
-Level: 10
+Level: 8
 Ability: Defiant
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -251,7 +251,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lash Out
 
 Spinda @ Lum Berry
-Level: 9
+Level: 8
 Ability: Contrary
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Teeter Dance
@@ -259,7 +259,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 Tyrunt @ Lum Berry
-Level: 9
+Level: 8
 Ability: Strong Jaw
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Blast
@@ -268,7 +268,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bulldoze
 
 Drifloon @ Lum Berry
-Level: 9
+Level: 8
 Ability: Aftermath
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hex
@@ -277,13 +277,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Focus Energy
 
 Unown @ Lum Berry
-Level: 9
+Level: 8
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hidden Power
 
 Pumpkaboo @ Lum Berry
-Level: 9
+Level: 8
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Trick-or-Treat
@@ -292,7 +292,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mystical Fire
 
 Elgyem @ Lum Berry
-Level: 9
+Level: 8
 Ability: Analytic
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Confusion
@@ -301,7 +301,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disable
 
 Zorua-Hisui @ Lum Berry
-Level: 9
+Level: 8
 Ability: Illusion
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
@@ -310,7 +310,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - U-turn
 
 Cacnea @ Lum Berry
-Level: 9
+Level: 8
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
@@ -404,9 +404,10 @@ Gender: Male
 Music: Aqua
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
 Luxio @ Lum Berry
-Level: 26
+Level: 22
 Ability: Intimidate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Fang
@@ -415,7 +416,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fire Fang
 
 Vileplume @ Black Sludge
-Level: 26
+Level: 22
 Ability: Effect Spore
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
@@ -424,7 +425,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
 
 Squawkabilly @ Chesto Berry
-Level: 27
+Level: 22
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fly
@@ -433,7 +434,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Talk
 
 Thievul @ Sitrus Berry
-Level: 27
+Level: 22
 Ability: Unburden
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sucker Punch
@@ -1154,15 +1155,263 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Azurill
-Level: 12
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Grotle @ Loaded Dice
+Level: 22
+Ability: Shell Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Bite
+- Bullet Seed
+- Bulldoze
 
-Azurill
-Level: 12
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Prinplup @ Lum Berry
+Level: 22
+Ability: Competitive
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Aerial Ace
+- Icy Wind
+- Flip Turn
+
+Torracat @ Lum Berry
+Level: 22
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Bite
+- Fire Fang
+- U-turn
+
+Charmeleon @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Dig
+- Dragon Breath
+- Take Down
+
+Servine @ Lum Berry
+Level: 22
+Ability: Contrary
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leech Seed
+- Magical Leaf
+- Aerial Ace
+- Tera Blast
+
+Drizzile @ Lum Berry
+Level: 22
+Ability: Sniper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Mud Shot
+- Rain Dance
+- Fell Stinger
+
+Quilladin @ Oran Berry
+Level: 22
+Ability: Overgrow
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Seed Bomb
+- Bite
+- Pin Missile
+- Facade
+
+Braixen @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Flame Charge
+- Mud Shot
+- Solar Beam
+
+Quaxwell @ Lum Berry
+Level: 24
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Aqua Cutter
+- Low Sweep
+- Wing Attack
+
+Dunsparce @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
+- Take Down
+- Poison Tail
+- Bulldoze
+
+Emolga @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Nuzzle
+- Electroweb
+- U-turn
+- Roost
+
+Gligar @ Lum Berry
+Level: 22
+Ability: Hyper Cutter
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Fury Cutter
+- Poison Tail
+- Knock Off
+
+Illumise @ Lum Berry
+Level: 23
+Ability: Tinted Lens
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Struggle Bug
+- Moonlight
+- Quick Attack
+- Water Pulse
+
+Dedenne @ Oran Berry
+Level: 22
+Ability: Cheek Pouch
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Magnet Rise
+- Thunder Shock
+- Grass Knot
+- Draining Kiss
+
+Misdreavus @ Lum Berry
+Level: 23
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hex
+- Stored Power
+- Charge Beam
+- Draining Kiss
+
+Persian-Alola @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Bite
+- Metal Claw
+- Shadow Claw
+
+Arbok @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Ice Fang
+- Thunder Fang
+- Poison Tail
+
+Venomoth @ Lum Berry
+Level: 23
+Ability: Shield Dust
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Confusion
+- Stun Spore
+- Venoshock
+
+Sableye @ Lum Berry
+Level: 22
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Night Shade
+- Fake Out
+- Shadow Sneak
+- Thief
+
+Porygon @ Lum Berry
+Level: 22
+Ability: Trace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Thunder Shock
+- Swift
+- Protect
+
+Delibird @ Lum Berry
+Level: 22
+Ability: Hustle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Present
+
+Honedge @ Lum Berry
+Level: 22
+Ability: No Guard
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Shadow Sneak
+- Brutal Swing
+- Psycho Cut
+
+Pelipper @ Lum Berry
+Level: 22
+Ability: Drizzle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wing Attack
+- Water Pulse
+- Icy Wind
+- Tailwind
+
+Girafarig @ Lum Berry
+Level: 22
+Ability: Sap Sipper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+- Confusion
+- Low Kick
+- Grass Knot
+
+Chimecho @ Lum Berry
+Level: 22
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Disarming Voice
+- Icy Wind
+- Fake Tears
+
+Loudred @ Metronome
+Level: 22
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+
+Aipom @ Lum Berry
+Level: 22
+Ability: Skill Link
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Swipes
+- Thief
+- Low Kick
+- Water Pulse
+
+Nidorina @ Lum Berry
+Level: 22
+Ability: Poison Point
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic Spikes
+- Double Kick
+- Aerial Ace
+- Poison Fang
+
+Pachirisu @ Lum Berry
+Level: 22
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Nuzzle
+- Mud Shot
+- Seed Bomb
 
 === TRAINER_AUSTINA ===
 Name: AUSTINA
@@ -1265,15 +1514,263 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Zigzagoon
-Level: 13
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
-- Sand Attack
-- Headbutt
-- Tail Whip
-- Surf
+Grotle @ Loaded Dice
+Level: 22
+Ability: Shell Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Bite
+- Bullet Seed
+- Bulldoze
+
+Prinplup @ Lum Berry
+Level: 22
+Ability: Competitive
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Aerial Ace
+- Icy Wind
+- Flip Turn
+
+Torracat @ Lum Berry
+Level: 22
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Bite
+- Fire Fang
+- U-turn
+
+Charmeleon @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Dig
+- Dragon Breath
+- Take Down
+
+Servine @ Lum Berry
+Level: 22
+Ability: Contrary
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leech Seed
+- Magical Leaf
+- Aerial Ace
+- Tera Blast
+
+Drizzile @ Lum Berry
+Level: 22
+Ability: Sniper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Mud Shot
+- Rain Dance
+- Fell Stinger
+
+Quilladin @ Oran Berry
+Level: 22
+Ability: Overgrow
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Seed Bomb
+- Bite
+- Pin Missile
+- Facade
+
+Braixen @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Flame Charge
+- Mud Shot
+- Solar Beam
+
+Quaxwell @ Lum Berry
+Level: 24
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Aqua Cutter
+- Low Sweep
+- Wing Attack
+
+Dunsparce @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
+- Take Down
+- Poison Tail
+- Bulldoze
+
+Emolga @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Nuzzle
+- Electroweb
+- U-turn
+- Roost
+
+Gligar @ Lum Berry
+Level: 22
+Ability: Hyper Cutter
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Fury Cutter
+- Poison Tail
+- Knock Off
+
+Illumise @ Lum Berry
+Level: 23
+Ability: Tinted Lens
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Struggle Bug
+- Moonlight
+- Quick Attack
+- Water Pulse
+
+Dedenne @ Oran Berry
+Level: 22
+Ability: Cheek Pouch
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Magnet Rise
+- Thunder Shock
+- Grass Knot
+- Draining Kiss
+
+Misdreavus @ Lum Berry
+Level: 23
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hex
+- Stored Power
+- Charge Beam
+- Draining Kiss
+
+Persian-Alola @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Bite
+- Metal Claw
+- Shadow Claw
+
+Arbok @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Ice Fang
+- Thunder Fang
+- Poison Tail
+
+Venomoth @ Lum Berry
+Level: 23
+Ability: Shield Dust
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Confusion
+- Stun Spore
+- Venoshock
+
+Sableye @ Lum Berry
+Level: 22
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Night Shade
+- Fake Out
+- Shadow Sneak
+- Thief
+
+Porygon @ Lum Berry
+Level: 22
+Ability: Trace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Thunder Shock
+- Swift
+- Protect
+
+Delibird @ Lum Berry
+Level: 22
+Ability: Hustle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Present
+
+Honedge @ Lum Berry
+Level: 22
+Ability: No Guard
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Shadow Sneak
+- Brutal Swing
+- Psycho Cut
+
+Pelipper @ Lum Berry
+Level: 22
+Ability: Drizzle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wing Attack
+- Water Pulse
+- Icy Wind
+- Tailwind
+
+Girafarig @ Lum Berry
+Level: 22
+Ability: Sap Sipper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+- Confusion
+- Low Kick
+- Grass Knot
+
+Chimecho @ Lum Berry
+Level: 22
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Disarming Voice
+- Icy Wind
+- Fake Tears
+
+Loudred @ Metronome
+Level: 22
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+
+Aipom @ Lum Berry
+Level: 22
+Ability: Skill Link
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Swipes
+- Thief
+- Low Kick
+- Water Pulse
+
+Nidorina @ Lum Berry
+Level: 22
+Ability: Poison Point
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic Spikes
+- Double Kick
+- Aerial Ace
+- Poison Fang
+
+Pachirisu @ Lum Berry
+Level: 22
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Nuzzle
+- Mud Shot
+- Seed Bomb
 
 === TRAINER_SIMON ===
 Name: SIMON
@@ -2239,20 +2736,20 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
-- Big Bite
+- Bug Bite
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Poison Sting
-- Big Bite
+- Bug Bite
 
 Sunkern
 Level: 10
@@ -2263,7 +2760,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Endeavor
 
 Azurill
-Level: 9
+Level: 7
 Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
@@ -2272,7 +2769,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Kricketot
-Level: 9
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
@@ -2281,7 +2778,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lunge
 
 Skitty
-Level: 9
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -2290,7 +2787,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Scatterbug
-Level: 9
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
@@ -2299,7 +2796,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tackle
 
 Blipbug
-Level: 9
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -2308,7 +2805,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
@@ -2317,7 +2814,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Memento
 
 Snom
-Level: 9
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -2326,7 +2823,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -2334,7 +2831,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -2343,13 +2840,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 9
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Pichu
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -2358,7 +2855,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
@@ -2367,7 +2864,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Sprigatito @ Lum Berry
-Level: 9
+Level: 7
 Ability: Protean
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
@@ -2376,7 +2873,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scratch
 
 Fuecoco @ Lum Berry
-Level: 9
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
@@ -2394,7 +2891,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roost
 
 Tyrogue
-Level: 9
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -2403,7 +2900,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -2412,7 +2909,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 9
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -2421,7 +2918,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Seedot
-Level: 9
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -2430,7 +2927,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 9
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
@@ -2439,7 +2936,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -2448,7 +2945,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -2466,7 +2963,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Tears
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -2475,7 +2972,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Sound
 
 Combee
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
@@ -2483,7 +2980,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Scent
 
 Togepi
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -2492,7 +2989,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Nickit
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
@@ -2501,7 +2998,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 9
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -2510,7 +3007,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 9
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -3131,7 +3628,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -3823,11 +4320,242 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Machop
-Level: 13
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Heracross @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Seed
+- Aerial Ace
+- Brick Break
+- Pounce
+
+Machop @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Vital Throw
+- Knock Off
+- Poison Jab
+- Revenge
+
+Mankey @ Lum Berry
+Level: 23
+Ability: Defiant
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cross Chop
+- Swagger
+- Rock Tomb
+- Acrobatics
+
+Farfetch'd-Galar @ Leek
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Fury Cutter
+- Steel Wing
+- Revenge
+
+Hitmonlee @ Lum Berry
+Level: 23
+Ability: Unburden
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Sucker Punch
+- Bulldoze
+- Endeavor
+
+Monferno @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Mach Punch
+- Low Sweep
+- Zen Headbutt
+
+Breloom @ Toxic Orb
+Level: 23
+Ability: Poison Heal
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Mach Punch
+- Brick Break
+- Headbutt
+
+Hariyama @ Oran Berry
+Level: 24
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Arm Thrust
+- Fake Out
+- Knock Off
+- Rock Tomb
+
+Riolu @ Lum Berry
+Level: 23
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Endure
+- Reversal
+- Agility
+- Rock Tomb
+
+Mienfoo @ Oran Berry
+Level: 23
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Force Palm
+- U-turn
+- Acrobatics
+
+Crabrawler @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Brick Break
+- Slam
+- Payback
+
+Stufful @ Lum Berry
+Level: 23
+Ability: Fluffy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Strength
+- Brick Break
+- Brutal Swing
+- Stomping Tantrum
+
+Clobbopus @ Iron Ball
+Level: 23
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Power-Up Punch
+- Bind
+- Detect
+- Sucker Punch
+
+Scraggy @ Lum Berry
+Level: 23
+Ability: Shed Skin
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rest
+- Headbutt
+- Low Kick
+- Thief
+
+Pignite @ Lum Berry
+Level: 23
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Charge
+- Arm Thrust
+- Grass Knot
+- Thunder Punch
+
+Hitmontop @ Lum Berry
+Level: 24
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Sucker Punch
+- Brick Break
+- Dig
+
+Lilligant-Hisui @ Lum Berry
+Level: 22
+Ability: Chlorophyll
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Seed Bomb
+- Substitute
+- Grassy Terrain
+
+Pancham @ Lum Berry
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Circle Throw
+- Work Up
+- Slash
+- Payback
+
+Pawmo @ Lum Berry
+Level: 23
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Bite
+- Low Sweep
+- Nuzzle
+
+Flamigo @ Lum Berry
+Level: 23
+Ability: Tangled Feet
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Low Kick
+- Wing Attack
+- Focus Energy
+- Detect
+
+Falinks @ Lum Berry
+Level: 22
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Focus Energy
+- Rock Tomb
+- Smart Strike
+- Reversal
+
+Sneasel-Hisui @ Lum Berry
+Level: 24
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Metal Claw
+- Poison Jab
+- Low Sweep
+- Aerial Ace
+
+Gurdurr @ Lum Berry
+Level: 24
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Punch
+- Rock Throw
+- Low Kick
+- Slam
+
+Meditite @ Lum Berry
+Level: 23
+Ability: Pure Power
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Force Palm
+- Zen Headbutt
+- Night Shade
+- Fire Punch
+
+Great Tusk @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot
+- Flash Cannon
+- Psyshock
+- Earth Power
+
+Slither Wing @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ember
+- Gust
+- Giga Drain
+- Will-O-Wisp
 
 === TRAINER_HITOSHI ===
 Name: HITOSHI
@@ -5513,17 +6241,17 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Tauros-Paldea-Blaze @ Lum Berry
-Level: 29
+Tauros-Paldea-Combat @ Lum Berry
+Level: 24
 Ability: Intimidate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Work Up
-- Raging Bull
+- Body Press
 - Zen Headbutt
 - Rock Tomb
 
 Hitmonchan @ Lum Berry
-Level: 27
+Level: 23
 Ability: Iron Fist
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -5532,16 +6260,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Jab
 
 Pawmot @ Lum Berry
-Level: 29
+Level: 24
 Ability: Iron Fist
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Nuzzle
-- Volt Switch
+- Thunder Fang
 - Brick Break
 - Fire Punch
 
 Medicham @ Lum Berry
-Level: 30
+Level: 25
 Ability: Pure Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
@@ -5550,7 +6278,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Reversal
 
 Grapploct @ Lum Berry
-Level: 30
+Level: 24
 Ability: Technician
 IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Brick Break
@@ -5559,12 +6287,12 @@ IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Payback
 
 Toxicroak @ Lum Berry
-Level: 30
+Level: 24
 Ability: Poison Touch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Jab
 - Sucker Punch
-- Belch
+- X-Scissor
 - Stone Edge
 
 === TRAINER_WATTSON_1 ===
@@ -5577,16 +6305,16 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
 Rotom-Heat @ Sitrus Berry
-Level: 38
+Level: 32
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Hex
+- Shadow Ball
 - Thunder Wave
 - Volt Switch
 - Fire Blast
 
 Thundurus-Therian @ Lum Berry
-Level: 38
+Level: 32
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Punch
@@ -5595,7 +6323,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grass Knot
 
 Boltund @ Lum Berry
-Level: 38
+Level: 32
 Ability: Strong Jaw
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Fang
@@ -5604,25 +6332,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Nuzzle
 
 Arctozolt @ Chesto Berry
-Level: 38
+Level: 32
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icicle Spear
 - Thunder Punch
-- Rock Tomb
+- Rock Blast
 - Rest
 
 Oricorio-Pom-Pom @ Lum Berry
-Level: 38
+Level: 32
 Ability: Dancer
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Revelation Dance
 - Air Slash
-- Tailwind
-- U-Turn
+- Reversal
+- Alluring Voice
 
 Manectric @ Manectite
-Level: 38
+Level: 32
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
@@ -5641,7 +6369,7 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
 Moltres @ Sitrus Berry
-Level: 48
+Level: 43
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Heat Wave
@@ -5650,7 +6378,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scorching Sands
 
 Darmanitan @ Custap Berry
-Level: 48
+Level: 43
 Ability: Zen Mode
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flare Blitz
@@ -5659,7 +6387,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Payback
 
 Ceruledge @ Lum Berry
-Level: 48
+Level: 43
 Ability: Weak Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bitter Blade
@@ -5668,7 +6396,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Claw
 
 Gouging Fire @ Lum Berry
-Level: 49
+Level: 43
 Ability: Protosynthesis
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Burning Bulwark
@@ -5677,7 +6405,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 
 Iron Moth @ Lum Berry
-Level: 49
+Level: 43
 Ability: Quark Drive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sludge Wave
@@ -5686,7 +6414,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Energy Ball
 
 Emboar @ Lum Berry
-Level: 50
+Level: 43
 Ability: Reckless
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Head Smash
@@ -5888,7 +6616,7 @@ Double Battle: No
 AI: Check Bad Move
 
 Ralts
-Level: 9
+Level: 7
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TED ===
@@ -6211,7 +6939,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -6960,20 +7688,20 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
-- Big Bite
+- Bug Bite
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Poison Sting
-- Big Bite
+- Bug Bite
 
 Sunkern
 Level: 10
@@ -6984,7 +7712,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Endeavor
 
 Azurill
-Level: 9
+Level: 7
 Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
@@ -6993,7 +7721,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Kricketot
-Level: 9
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
@@ -7002,7 +7730,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lunge
 
 Skitty
-Level: 9
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -7011,7 +7739,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Scatterbug
-Level: 9
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
@@ -7020,7 +7748,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tackle
 
 Blipbug
-Level: 9
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -7029,7 +7757,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
@@ -7038,7 +7766,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Memento
 
 Snom
-Level: 9
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -7047,7 +7775,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -7055,7 +7783,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -7064,13 +7792,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 9
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Pichu
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -7079,7 +7807,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
@@ -7088,7 +7816,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Sprigatito @ Lum Berry
-Level: 9
+Level: 7
 Ability: Protean
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
@@ -7097,7 +7825,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scratch
 
 Fuecoco @ Lum Berry
-Level: 9
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
@@ -7115,7 +7843,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roost
 
 Tyrogue
-Level: 9
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -7124,7 +7852,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -7133,7 +7861,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 9
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -7142,7 +7870,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Seedot
-Level: 9
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -7151,7 +7879,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 9
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
@@ -7160,7 +7888,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -7169,7 +7897,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -7187,7 +7915,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Tears
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -7196,7 +7924,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Sound
 
 Combee
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
@@ -7204,7 +7932,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Scent
 
 Togepi
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -7213,7 +7941,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Nickit
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
@@ -7222,7 +7950,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 9
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -7231,7 +7959,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 9
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -7259,20 +7987,20 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
-- Big Bite
+- Bug Bite
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Poison Sting
-- Big Bite
+- Bug Bite
 
 Sunkern
 Level: 10
@@ -7283,7 +8011,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Endeavor
 
 Azurill
-Level: 9
+Level: 7
 Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
@@ -7292,7 +8020,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Kricketot
-Level: 9
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
@@ -7301,7 +8029,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lunge
 
 Skitty
-Level: 9
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -7310,7 +8038,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Scatterbug
-Level: 9
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
@@ -7319,7 +8047,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tackle
 
 Blipbug
-Level: 9
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -7328,7 +8056,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
@@ -7337,7 +8065,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Memento
 
 Snom
-Level: 9
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -7346,7 +8074,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -7354,7 +8082,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -7363,13 +8091,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 9
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Pichu
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -7378,7 +8106,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
@@ -7387,7 +8115,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Sprigatito @ Lum Berry
-Level: 9
+Level: 7
 Ability: Protean
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
@@ -7396,7 +8124,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scratch
 
 Fuecoco @ Lum Berry
-Level: 9
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
@@ -7414,7 +8142,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roost
 
 Tyrogue
-Level: 9
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -7423,7 +8151,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -7432,7 +8160,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 9
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -7441,7 +8169,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Seedot
-Level: 9
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -7450,7 +8178,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 9
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
@@ -7459,7 +8187,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -7468,7 +8196,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -7486,7 +8214,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Tears
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -7495,7 +8223,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Sound
 
 Combee
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
@@ -7503,7 +8231,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Scent
 
 Togepi
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -7512,7 +8240,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Nickit
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
@@ -7521,7 +8249,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 9
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -7530,7 +8258,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 9
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -7554,12 +8282,152 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Geodude
-Level: 10
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
+Sudowoodo @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Tomb
+- Low Kick
+- Wood Hammer
+- Sandstorm
+
+Larvitar @ Lum Berry
+Level: 19
+Ability: Sand Veil
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sandstorm
+- Rock Slide
+- Stomping Tantrum
+- Protect
+
+Omanyte
+Level: 18
+Ability: Shell Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Rock Tomb
+- Mud Shot
+- Gyro Ball
+
+Anorith @ Lum Berry
+Level: 19
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bug Bite
+- Rock Tomb
+- Metal Claw
+- Aerial Ace
+
+Cranidos @ Lum Berry
+Level: 19
+Ability: Mold Breaker
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Headbutt
+- Rock Tomb
+- Zen Headbutt
+- Thunder Punch
+
+Shieldon @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Take Down
+- Rock Blast
+- Stomping Tantrum
+- Flash Cannon
+
+Lileep @ Lum Berry
+Level: 18
+Ability: Suction Cups
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Ancient Power
+- Brine
+- Ingrain
+
+Nosepass @ Lum Berry
+Level: 19
+Ability: Magnet Pull
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Throw
+- Thunder Wave
+- Stealth Rock
+- Heavy Slam
+
+Tyrunt @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Tail
+- Bite
+- Ancient Power
+- Brick Break
+
+Glimmet @ Lum Berry
+Level: 19
+Ability: Toxic Debris
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Smack Down
+- Stealth Rock
+- Acid Spray
+- Mud Shot
+
+Tirtouga @ Lum Berry
+Level: 19
+Ability: Solid Rock
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Ancient Power
+- Whirlpool
+- Protect
+
+Archen @ Lum Berry
+Level: 18
+Ability: Defeatist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Throw
+- Pluck
+- Steel Wing
+- Dig
+
+Onix @ Lum Berry
+Level: 19
+Ability: Weak Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Rock Slide
+- Dig
+- Flash Cannon
+
+Growlithe-Hisui @ Lum Berry
+Level: 19
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Thunder Fang
+- Agility
+- Body Slam
+
+Geodude-Alola @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Protect
+- Rock Tomb
+- Rollout
+
+Geodude @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bulldoze
+- Protect
+- Rock Tomb
+- Rollout
 
 === TRAINER_TOMMY ===
 Name: TOMMY
@@ -7568,15 +8436,152 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Geodude
-Level: 8
-IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
+Sudowoodo @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Tomb
+- Low Kick
+- Wood Hammer
+- Sandstorm
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Larvitar @ Lum Berry
+Level: 19
+Ability: Sand Veil
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sandstorm
+- Rock Slide
+- Stomping Tantrum
+- Protect
+
+Omanyte
+Level: 18
+Ability: Shell Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Rock Tomb
+- Mud Shot
+- Gyro Ball
+
+Anorith @ Lum Berry
+Level: 19
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bug Bite
+- Rock Tomb
+- Metal Claw
+- Aerial Ace
+
+Cranidos @ Lum Berry
+Level: 19
+Ability: Mold Breaker
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Headbutt
+- Rock Tomb
+- Zen Headbutt
+- Thunder Punch
+
+Shieldon @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Take Down
+- Rock Blast
+- Stomping Tantrum
+- Flash Cannon
+
+Lileep @ Lum Berry
+Level: 18
+Ability: Suction Cups
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Ancient Power
+- Brine
+- Ingrain
+
+Nosepass @ Lum Berry
+Level: 19
+Ability: Magnet Pull
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Throw
+- Thunder Wave
+- Stealth Rock
+- Heavy Slam
+
+Tyrunt @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Tail
+- Bite
+- Ancient Power
+- Brick Break
+
+Glimmet @ Lum Berry
+Level: 19
+Ability: Toxic Debris
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Smack Down
+- Stealth Rock
+- Acid Spray
+- Mud Shot
+
+Tirtouga @ Lum Berry
+Level: 19
+Ability: Solid Rock
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Ancient Power
+- Whirlpool
+- Protect
+
+Archen @ Lum Berry
+Level: 18
+Ability: Defeatist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Throw
+- Pluck
+- Steel Wing
+- Dig
+
+Onix @ Lum Berry
+Level: 19
+Ability: Weak Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Rock Slide
+- Dig
+- Flash Cannon
+
+Growlithe-Hisui @ Lum Berry
+Level: 19
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Thunder Fang
+- Agility
+- Body Slam
+
+Geodude-Alola @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Protect
+- Rock Tomb
+- Rollout
+
+Geodude @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bulldoze
+- Protect
+- Rock Tomb
+- Rollout
 
 === TRAINER_JOEY ===
 Name: JOEY
@@ -7792,7 +8797,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -8049,20 +9054,20 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
-- Big Bite
+- Bug Bite
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Poison Sting
-- Big Bite
+- Bug Bite
 
 Sunkern
 Level: 10
@@ -8073,7 +9078,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Endeavor
 
 Azurill
-Level: 9
+Level: 7
 Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
@@ -8082,7 +9087,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Kricketot
-Level: 9
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
@@ -8091,7 +9096,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lunge
 
 Skitty
-Level: 9
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -8100,7 +9105,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Scatterbug
-Level: 9
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
@@ -8109,7 +9114,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tackle
 
 Blipbug
-Level: 9
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -8118,7 +9123,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
@@ -8127,7 +9132,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Memento
 
 Snom
-Level: 9
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -8136,7 +9141,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -8144,7 +9149,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -8153,13 +9158,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 9
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Pichu
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -8168,7 +9173,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
@@ -8177,7 +9182,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Sprigatito @ Lum Berry
-Level: 9
+Level: 7
 Ability: Protean
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
@@ -8186,7 +9191,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scratch
 
 Fuecoco @ Lum Berry
-Level: 9
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
@@ -8204,7 +9209,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roost
 
 Tyrogue
-Level: 9
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -8213,7 +9218,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -8222,7 +9227,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 9
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -8231,7 +9236,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Seedot
-Level: 9
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -8240,7 +9245,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 9
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
@@ -8249,7 +9254,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -8258,7 +9263,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -8276,7 +9281,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Tears
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -8285,7 +9290,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Sound
 
 Combee
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
@@ -8293,7 +9298,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Scent
 
 Togepi
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -8302,7 +9307,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Nickit
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
@@ -8311,7 +9316,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 9
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -8320,7 +9325,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 9
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -8648,7 +9653,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -8731,33 +9736,262 @@ Gender: Male
 Music: Hiker
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Gurdurr @ Lum Berry
-Level: 25
-Ability: Sheer Force
+Grotle @ Loaded Dice
+Level: 22
+Ability: Shell Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rock Slide
-- Low Sweep
-- Endure
-- Slam
+- Curse
+- Bite
+- Bullet Seed
+- Bulldoze
 
-Ariados @ Lum Berry
-Level: 25
+Prinplup @ Lum Berry
+Level: 22
+Ability: Competitive
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Aerial Ace
+- Icy Wind
+- Flip Turn
+
+Torracat @ Lum Berry
+Level: 22
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Bite
+- Fire Fang
+- U-turn
+
+Charmeleon @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Dig
+- Dragon Breath
+- Take Down
+
+Servine @ Lum Berry
+Level: 22
+Ability: Contrary
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leech Seed
+- Magical Leaf
+- Aerial Ace
+- Tera Blast
+
+Drizzile @ Lum Berry
+Level: 22
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sucker Punch
-- Shadow Sneak
-- Pin Missile
-- Agility
+- Water Pulse
+- Mud Shot
+- Rain Dance
+- Fell Stinger
 
-Flaaffy @ Lum Berry
-Level: 26
-Ability: Static
+Quilladin @ Oran Berry
+Level: 22
+Ability: Overgrow
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder Wave
-- Electro Ball
-- Shock Wave
-- Ice Punch
+- Seed Bomb
+- Bite
+- Pin Missile
+- Facade
+
+Braixen @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Flame Charge
+- Mud Shot
+- Solar Beam
+
+Quaxwell @ Lum Berry
+Level: 24
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Aqua Cutter
+- Low Sweep
+- Wing Attack
+
+Dunsparce @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
+- Take Down
+- Poison Tail
+- Bulldoze
+
+Emolga @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Nuzzle
+- Electroweb
+- U-turn
+- Roost
+
+Gligar @ Lum Berry
+Level: 22
+Ability: Hyper Cutter
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Fury Cutter
+- Poison Tail
+- Knock Off
+
+Illumise @ Lum Berry
+Level: 23
+Ability: Tinted Lens
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Struggle Bug
+- Moonlight
+- Quick Attack
+- Water Pulse
+
+Dedenne @ Oran Berry
+Level: 22
+Ability: Cheek Pouch
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Magnet Rise
+- Thunder Shock
+- Grass Knot
+- Draining Kiss
+
+Misdreavus @ Lum Berry
+Level: 23
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hex
+- Stored Power
+- Charge Beam
+- Draining Kiss
+
+Persian-Alola @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Bite
+- Metal Claw
+- Shadow Claw
+
+Arbok @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Ice Fang
+- Thunder Fang
+- Poison Tail
+
+Venomoth @ Lum Berry
+Level: 23
+Ability: Shield Dust
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Confusion
+- Stun Spore
+- Venoshock
+
+Sableye @ Lum Berry
+Level: 22
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Night Shade
+- Fake Out
+- Shadow Sneak
+- Thief
+
+Porygon @ Lum Berry
+Level: 22
+Ability: Trace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Thunder Shock
+- Swift
+- Protect
+
+Delibird @ Lum Berry
+Level: 22
+Ability: Hustle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Present
+
+Honedge @ Lum Berry
+Level: 22
+Ability: No Guard
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Shadow Sneak
+- Brutal Swing
+- Psycho Cut
+
+Pelipper @ Lum Berry
+Level: 22
+Ability: Drizzle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wing Attack
+- Water Pulse
+- Icy Wind
+- Tailwind
+
+Girafarig @ Lum Berry
+Level: 22
+Ability: Sap Sipper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+- Confusion
+- Low Kick
+- Grass Knot
+
+Chimecho @ Lum Berry
+Level: 22
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Disarming Voice
+- Icy Wind
+- Fake Tears
+
+Loudred @ Metronome
+Level: 22
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+
+Aipom @ Lum Berry
+Level: 22
+Ability: Skill Link
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Swipes
+- Thief
+- Low Kick
+- Water Pulse
+
+Nidorina @ Lum Berry
+Level: 22
+Ability: Poison Point
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic Spikes
+- Double Kick
+- Aerial Ace
+- Poison Fang
+
+Pachirisu @ Lum Berry
+Level: 22
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Nuzzle
+- Mud Shot
+- Seed Bomb
 
 === TRAINER_NED ===
 Name: NED
@@ -8767,33 +10001,262 @@ Gender: Male
 Music: Hiker
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Bibarel @ Lum Berry
-Level: 26
-Ability: Simple
+Grotle @ Loaded Dice
+Level: 22
+Ability: Shell Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Headbutt
-- Crunch
-- Aqua Jet
-- Water Pulse
+- Curse
+- Bite
+- Bullet Seed
+- Bulldoze
 
-Scovillain @ Lum Berry
-Level: 24
-Ability: Insomnia
+Prinplup @ Lum Berry
+Level: 22
+Ability: Competitive
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Aerial Ace
+- Icy Wind
+- Flip Turn
+
+Torracat @ Lum Berry
+Level: 22
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Bite
+- Fire Fang
+- U-turn
+
+Charmeleon @ Lum Berry
+Level: 22
+Ability: Blaze
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fire Fang
-- Razor Leaf
-- Bite
-- Worry Seed
+- Dig
+- Dragon Breath
+- Take Down
 
-Tranquill @ Sharp Beak
-Level: 26
-Ability: Super Luck
+Servine @ Lum Berry
+Level: 22
+Ability: Contrary
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Air Cutter
-- u-Turn
-- Swagger
-- Round
+- Leech Seed
+- Magical Leaf
+- Aerial Ace
+- Tera Blast
+
+Drizzile @ Lum Berry
+Level: 22
+Ability: Sniper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Mud Shot
+- Rain Dance
+- Fell Stinger
+
+Quilladin @ Oran Berry
+Level: 22
+Ability: Overgrow
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Seed Bomb
+- Bite
+- Pin Missile
+- Facade
+
+Braixen @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Flame Charge
+- Mud Shot
+- Solar Beam
+
+Quaxwell @ Lum Berry
+Level: 24
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Aqua Cutter
+- Low Sweep
+- Wing Attack
+
+Dunsparce @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
+- Take Down
+- Poison Tail
+- Bulldoze
+
+Emolga @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Nuzzle
+- Electroweb
+- U-turn
+- Roost
+
+Gligar @ Lum Berry
+Level: 22
+Ability: Hyper Cutter
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Fury Cutter
+- Poison Tail
+- Knock Off
+
+Illumise @ Lum Berry
+Level: 23
+Ability: Tinted Lens
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Struggle Bug
+- Moonlight
+- Quick Attack
+- Water Pulse
+
+Dedenne @ Oran Berry
+Level: 22
+Ability: Cheek Pouch
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Magnet Rise
+- Thunder Shock
+- Grass Knot
+- Draining Kiss
+
+Misdreavus @ Lum Berry
+Level: 23
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hex
+- Stored Power
+- Charge Beam
+- Draining Kiss
+
+Persian-Alola @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Bite
+- Metal Claw
+- Shadow Claw
+
+Arbok @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Ice Fang
+- Thunder Fang
+- Poison Tail
+
+Venomoth @ Lum Berry
+Level: 23
+Ability: Shield Dust
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Confusion
+- Stun Spore
+- Venoshock
+
+Sableye @ Lum Berry
+Level: 22
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Night Shade
+- Fake Out
+- Shadow Sneak
+- Thief
+
+Porygon @ Lum Berry
+Level: 22
+Ability: Trace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Thunder Shock
+- Swift
+- Protect
+
+Delibird @ Lum Berry
+Level: 22
+Ability: Hustle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Present
+
+Honedge @ Lum Berry
+Level: 22
+Ability: No Guard
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Shadow Sneak
+- Brutal Swing
+- Psycho Cut
+
+Pelipper @ Lum Berry
+Level: 22
+Ability: Drizzle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wing Attack
+- Water Pulse
+- Icy Wind
+- Tailwind
+
+Girafarig @ Lum Berry
+Level: 22
+Ability: Sap Sipper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+- Confusion
+- Low Kick
+- Grass Knot
+
+Chimecho @ Lum Berry
+Level: 22
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Disarming Voice
+- Icy Wind
+- Fake Tears
+
+Loudred @ Metronome
+Level: 22
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+
+Aipom @ Lum Berry
+Level: 22
+Ability: Skill Link
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Swipes
+- Thief
+- Low Kick
+- Water Pulse
+
+Nidorina @ Lum Berry
+Level: 22
+Ability: Poison Point
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic Spikes
+- Double Kick
+- Aerial Ace
+- Poison Fang
+
+Pachirisu @ Lum Berry
+Level: 22
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Nuzzle
+- Mud Shot
+- Seed Bomb
 
 === TRAINER_DALE ===
 Name: DALE
@@ -10237,11 +11700,242 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Meditite
-Level: 13
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Heracross @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Seed
+- Aerial Ace
+- Brick Break
+- Pounce
+
+Machop @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Vital Throw
+- Knock Off
+- Poison Jab
+- Revenge
+
+Mankey @ Lum Berry
+Level: 23
+Ability: Defiant
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cross Chop
+- Swagger
+- Rock Tomb
+- Acrobatics
+
+Farfetch'd-Galar @ Leek
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Fury Cutter
+- Steel Wing
+- Revenge
+
+Hitmonlee @ Lum Berry
+Level: 23
+Ability: Unburden
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Sucker Punch
+- Bulldoze
+- Endeavor
+
+Monferno @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Mach Punch
+- Low Sweep
+- Zen Headbutt
+
+Breloom @ Toxic Orb
+Level: 23
+Ability: Poison Heal
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Mach Punch
+- Brick Break
+- Headbutt
+
+Hariyama @ Oran Berry
+Level: 24
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Arm Thrust
+- Fake Out
+- Knock Off
+- Rock Tomb
+
+Riolu @ Lum Berry
+Level: 23
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Endure
+- Reversal
+- Agility
+- Rock Tomb
+
+Mienfoo @ Oran Berry
+Level: 23
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Force Palm
+- U-turn
+- Acrobatics
+
+Crabrawler @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Brick Break
+- Slam
+- Payback
+
+Stufful @ Lum Berry
+Level: 23
+Ability: Fluffy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Strength
+- Brick Break
+- Brutal Swing
+- Stomping Tantrum
+
+Clobbopus @ Iron Ball
+Level: 23
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Power-Up Punch
+- Bind
+- Detect
+- Sucker Punch
+
+Scraggy @ Lum Berry
+Level: 23
+Ability: Shed Skin
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rest
+- Headbutt
+- Low Kick
+- Thief
+
+Pignite @ Lum Berry
+Level: 23
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Charge
+- Arm Thrust
+- Grass Knot
+- Thunder Punch
+
+Hitmontop @ Lum Berry
+Level: 24
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Sucker Punch
+- Brick Break
+- Dig
+
+Lilligant-Hisui @ Lum Berry
+Level: 22
+Ability: Chlorophyll
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Seed Bomb
+- Substitute
+- Grassy Terrain
+
+Pancham @ Lum Berry
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Circle Throw
+- Work Up
+- Slash
+- Payback
+
+Pawmo @ Lum Berry
+Level: 23
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Bite
+- Low Sweep
+- Nuzzle
+
+Flamigo @ Lum Berry
+Level: 23
+Ability: Tangled Feet
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Low Kick
+- Wing Attack
+- Focus Energy
+- Detect
+
+Falinks @ Lum Berry
+Level: 22
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Focus Energy
+- Rock Tomb
+- Smart Strike
+- Reversal
+
+Sneasel-Hisui @ Lum Berry
+Level: 24
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Metal Claw
+- Poison Jab
+- Low Sweep
+- Aerial Ace
+
+Gurdurr @ Lum Berry
+Level: 24
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Punch
+- Rock Throw
+- Low Kick
+- Slam
+
+Meditite @ Lum Berry
+Level: 23
+Ability: Pure Power
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Force Palm
+- Zen Headbutt
+- Night Shade
+- Fire Punch
+
+Great Tusk @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot
+- Flash Cannon
+- Psyshock
+- Earth Power
+
+Slither Wing @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ember
+- Gust
+- Giga Drain
+- Will-O-Wisp
 
 === TRAINER_LAURA ===
 Name: LAURA
@@ -10250,11 +11944,242 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Meditite
-Level: 13
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Heracross @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Seed
+- Aerial Ace
+- Brick Break
+- Pounce
+
+Machop @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Vital Throw
+- Knock Off
+- Poison Jab
+- Revenge
+
+Mankey @ Lum Berry
+Level: 23
+Ability: Defiant
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cross Chop
+- Swagger
+- Rock Tomb
+- Acrobatics
+
+Farfetch'd-Galar @ Leek
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Fury Cutter
+- Steel Wing
+- Revenge
+
+Hitmonlee @ Lum Berry
+Level: 23
+Ability: Unburden
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Sucker Punch
+- Bulldoze
+- Endeavor
+
+Monferno @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Mach Punch
+- Low Sweep
+- Zen Headbutt
+
+Breloom @ Toxic Orb
+Level: 23
+Ability: Poison Heal
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Mach Punch
+- Brick Break
+- Headbutt
+
+Hariyama @ Oran Berry
+Level: 24
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Arm Thrust
+- Fake Out
+- Knock Off
+- Rock Tomb
+
+Riolu @ Lum Berry
+Level: 23
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Endure
+- Reversal
+- Agility
+- Rock Tomb
+
+Mienfoo @ Oran Berry
+Level: 23
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Force Palm
+- U-turn
+- Acrobatics
+
+Crabrawler @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Brick Break
+- Slam
+- Payback
+
+Stufful @ Lum Berry
+Level: 23
+Ability: Fluffy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Strength
+- Brick Break
+- Brutal Swing
+- Stomping Tantrum
+
+Clobbopus @ Iron Ball
+Level: 23
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Power-Up Punch
+- Bind
+- Detect
+- Sucker Punch
+
+Scraggy @ Lum Berry
+Level: 23
+Ability: Shed Skin
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rest
+- Headbutt
+- Low Kick
+- Thief
+
+Pignite @ Lum Berry
+Level: 23
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Charge
+- Arm Thrust
+- Grass Knot
+- Thunder Punch
+
+Hitmontop @ Lum Berry
+Level: 24
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Sucker Punch
+- Brick Break
+- Dig
+
+Lilligant-Hisui @ Lum Berry
+Level: 22
+Ability: Chlorophyll
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Seed Bomb
+- Substitute
+- Grassy Terrain
+
+Pancham @ Lum Berry
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Circle Throw
+- Work Up
+- Slash
+- Payback
+
+Pawmo @ Lum Berry
+Level: 23
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Bite
+- Low Sweep
+- Nuzzle
+
+Flamigo @ Lum Berry
+Level: 23
+Ability: Tangled Feet
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Low Kick
+- Wing Attack
+- Focus Energy
+- Detect
+
+Falinks @ Lum Berry
+Level: 22
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Focus Energy
+- Rock Tomb
+- Smart Strike
+- Reversal
+
+Sneasel-Hisui @ Lum Berry
+Level: 24
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Metal Claw
+- Poison Jab
+- Low Sweep
+- Aerial Ace
+
+Gurdurr @ Lum Berry
+Level: 24
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Punch
+- Rock Throw
+- Low Kick
+- Slam
+
+Meditite @ Lum Berry
+Level: 23
+Ability: Pure Power
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Force Palm
+- Zen Headbutt
+- Night Shade
+- Fire Punch
+
+Great Tusk @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot
+- Flash Cannon
+- Psyshock
+- Earth Power
+
+Slither Wing @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ember
+- Gust
+- Giga Drain
+- Will-O-Wisp
 
 === TRAINER_CYNDY_1 ===
 Name: CYNDY
@@ -11410,7 +13335,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -11491,11 +13416,11 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Plusle
-Level: 9
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Minun
-Level: 9
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GINA_AND_MIA_2 ===
@@ -11593,15 +13518,263 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Wingull
-Level: 12
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Grotle @ Loaded Dice
+Level: 22
+Ability: Shell Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Bite
+- Bullet Seed
+- Bulldoze
 
-Machop
-Level: 12
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Prinplup @ Lum Berry
+Level: 22
+Ability: Competitive
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Aerial Ace
+- Icy Wind
+- Flip Turn
+
+Torracat @ Lum Berry
+Level: 22
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Bite
+- Fire Fang
+- U-turn
+
+Charmeleon @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Dig
+- Dragon Breath
+- Take Down
+
+Servine @ Lum Berry
+Level: 22
+Ability: Contrary
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leech Seed
+- Magical Leaf
+- Aerial Ace
+- Tera Blast
+
+Drizzile @ Lum Berry
+Level: 22
+Ability: Sniper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Mud Shot
+- Rain Dance
+- Fell Stinger
+
+Quilladin @ Oran Berry
+Level: 22
+Ability: Overgrow
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Seed Bomb
+- Bite
+- Pin Missile
+- Facade
+
+Braixen @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Flame Charge
+- Mud Shot
+- Solar Beam
+
+Quaxwell @ Lum Berry
+Level: 24
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Aqua Cutter
+- Low Sweep
+- Wing Attack
+
+Dunsparce @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
+- Take Down
+- Poison Tail
+- Bulldoze
+
+Emolga @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Nuzzle
+- Electroweb
+- U-turn
+- Roost
+
+Gligar @ Lum Berry
+Level: 22
+Ability: Hyper Cutter
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Fury Cutter
+- Poison Tail
+- Knock Off
+
+Illumise @ Lum Berry
+Level: 23
+Ability: Tinted Lens
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Struggle Bug
+- Moonlight
+- Quick Attack
+- Water Pulse
+
+Dedenne @ Oran Berry
+Level: 22
+Ability: Cheek Pouch
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Magnet Rise
+- Thunder Shock
+- Grass Knot
+- Draining Kiss
+
+Misdreavus @ Lum Berry
+Level: 23
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hex
+- Stored Power
+- Charge Beam
+- Draining Kiss
+
+Persian-Alola @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Bite
+- Metal Claw
+- Shadow Claw
+
+Arbok @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Ice Fang
+- Thunder Fang
+- Poison Tail
+
+Venomoth @ Lum Berry
+Level: 23
+Ability: Shield Dust
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Confusion
+- Stun Spore
+- Venoshock
+
+Sableye @ Lum Berry
+Level: 22
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Night Shade
+- Fake Out
+- Shadow Sneak
+- Thief
+
+Porygon @ Lum Berry
+Level: 22
+Ability: Trace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Thunder Shock
+- Swift
+- Protect
+
+Delibird @ Lum Berry
+Level: 22
+Ability: Hustle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Present
+
+Honedge @ Lum Berry
+Level: 22
+Ability: No Guard
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Shadow Sneak
+- Brutal Swing
+- Psycho Cut
+
+Pelipper @ Lum Berry
+Level: 22
+Ability: Drizzle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wing Attack
+- Water Pulse
+- Icy Wind
+- Tailwind
+
+Girafarig @ Lum Berry
+Level: 22
+Ability: Sap Sipper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+- Confusion
+- Low Kick
+- Grass Knot
+
+Chimecho @ Lum Berry
+Level: 22
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Disarming Voice
+- Icy Wind
+- Fake Tears
+
+Loudred @ Metronome
+Level: 22
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+
+Aipom @ Lum Berry
+Level: 22
+Ability: Skill Link
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Swipes
+- Thief
+- Low Kick
+- Water Pulse
+
+Nidorina @ Lum Berry
+Level: 22
+Ability: Poison Point
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic Spikes
+- Double Kick
+- Aerial Ace
+- Poison Fang
+
+Pachirisu @ Lum Berry
+Level: 22
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Nuzzle
+- Mud Shot
+- Seed Bomb
 
 === TRAINER_EDMOND ===
 Name: EDMOND
@@ -11610,11 +13783,263 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Wingull
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Grotle @ Loaded Dice
+Level: 22
+Ability: Shell Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Bite
+- Bullet Seed
+- Bulldoze
+
+Prinplup @ Lum Berry
+Level: 22
+Ability: Competitive
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Aerial Ace
+- Icy Wind
+- Flip Turn
+
+Torracat @ Lum Berry
+Level: 22
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Bite
+- Fire Fang
+- U-turn
+
+Charmeleon @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Dig
+- Dragon Breath
+- Take Down
+
+Servine @ Lum Berry
+Level: 22
+Ability: Contrary
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leech Seed
+- Magical Leaf
+- Aerial Ace
+- Tera Blast
+
+Drizzile @ Lum Berry
+Level: 22
+Ability: Sniper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Mud Shot
+- Rain Dance
+- Fell Stinger
+
+Quilladin @ Oran Berry
+Level: 22
+Ability: Overgrow
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Seed Bomb
+- Bite
+- Pin Missile
+- Facade
+
+Braixen @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Flame Charge
+- Mud Shot
+- Solar Beam
+
+Quaxwell @ Lum Berry
+Level: 24
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Aqua Cutter
+- Low Sweep
+- Wing Attack
+
+Dunsparce @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
+- Take Down
+- Poison Tail
+- Bulldoze
+
+Emolga @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Nuzzle
+- Electroweb
+- U-turn
+- Roost
+
+Gligar @ Lum Berry
+Level: 22
+Ability: Hyper Cutter
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Fury Cutter
+- Poison Tail
+- Knock Off
+
+Illumise @ Lum Berry
+Level: 23
+Ability: Tinted Lens
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Struggle Bug
+- Moonlight
+- Quick Attack
+- Water Pulse
+
+Dedenne @ Oran Berry
+Level: 22
+Ability: Cheek Pouch
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Magnet Rise
+- Thunder Shock
+- Grass Knot
+- Draining Kiss
+
+Misdreavus @ Lum Berry
+Level: 23
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hex
+- Stored Power
+- Charge Beam
+- Draining Kiss
+
+Persian-Alola @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Bite
+- Metal Claw
+- Shadow Claw
+
+Arbok @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Ice Fang
+- Thunder Fang
+- Poison Tail
+
+Venomoth @ Lum Berry
+Level: 23
+Ability: Shield Dust
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Confusion
+- Stun Spore
+- Venoshock
+
+Sableye @ Lum Berry
+Level: 22
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Night Shade
+- Fake Out
+- Shadow Sneak
+- Thief
+
+Porygon @ Lum Berry
+Level: 22
+Ability: Trace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Thunder Shock
+- Swift
+- Protect
+
+Delibird @ Lum Berry
+Level: 22
+Ability: Hustle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Present
+
+Honedge @ Lum Berry
+Level: 22
+Ability: No Guard
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Shadow Sneak
+- Brutal Swing
+- Psycho Cut
+
+Pelipper @ Lum Berry
+Level: 22
+Ability: Drizzle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wing Attack
+- Water Pulse
+- Icy Wind
+- Tailwind
+
+Girafarig @ Lum Berry
+Level: 22
+Ability: Sap Sipper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+- Confusion
+- Low Kick
+- Grass Knot
+
+Chimecho @ Lum Berry
+Level: 22
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Disarming Voice
+- Icy Wind
+- Fake Tears
+
+Loudred @ Metronome
+Level: 22
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+
+Aipom @ Lum Berry
+Level: 22
+Ability: Skill Link
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Swipes
+- Thief
+- Low Kick
+- Water Pulse
+
+Nidorina @ Lum Berry
+Level: 22
+Ability: Poison Point
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic Spikes
+- Double Kick
+- Aerial Ace
+- Poison Fang
+
+Pachirisu @ Lum Berry
+Level: 22
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Nuzzle
+- Mud Shot
+- Seed Bomb
 
 === TRAINER_ERNEST_1 ===
 Name: ERNEST
@@ -12159,6 +14584,7 @@ Gender: Male
 Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 1
 
 Treecko
 Level: 5
@@ -12214,6 +14640,7 @@ Gender: Male
 Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Setup First Turn
+Party Size: 1
 
 Torchic
 Level: 5
@@ -12269,6 +14696,7 @@ Gender: Male
 Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 1
 
 Mudkip
 Level: 5
@@ -12324,6 +14752,7 @@ Gender: Female
 Music: Female
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 1
 
 Treecko
 Level: 5
@@ -12379,6 +14808,7 @@ Gender: Female
 Music: Female
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 1
 
 Torchic
 Level: 5
@@ -12434,6 +14864,7 @@ Gender: Female
 Music: Female
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 1
 
 Mudkip
 Level: 5
@@ -13208,15 +15639,152 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Sudowoodo @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Tomb
+- Low Kick
+- Wood Hammer
+- Sandstorm
 
-Geodude
-Level: 8
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Larvitar @ Lum Berry
+Level: 19
+Ability: Sand Veil
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sandstorm
+- Rock Slide
+- Stomping Tantrum
+- Protect
+
+Omanyte
+Level: 18
+Ability: Shell Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Rock Tomb
+- Mud Shot
+- Gyro Ball
+
+Anorith @ Lum Berry
+Level: 19
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bug Bite
+- Rock Tomb
+- Metal Claw
+- Aerial Ace
+
+Cranidos @ Lum Berry
+Level: 19
+Ability: Mold Breaker
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Headbutt
+- Rock Tomb
+- Zen Headbutt
+- Thunder Punch
+
+Shieldon @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Take Down
+- Rock Blast
+- Stomping Tantrum
+- Flash Cannon
+
+Lileep @ Lum Berry
+Level: 18
+Ability: Suction Cups
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Ancient Power
+- Brine
+- Ingrain
+
+Nosepass @ Lum Berry
+Level: 19
+Ability: Magnet Pull
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Throw
+- Thunder Wave
+- Stealth Rock
+- Heavy Slam
+
+Tyrunt @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Tail
+- Bite
+- Ancient Power
+- Brick Break
+
+Glimmet @ Lum Berry
+Level: 19
+Ability: Toxic Debris
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Smack Down
+- Stealth Rock
+- Acid Spray
+- Mud Shot
+
+Tirtouga @ Lum Berry
+Level: 19
+Ability: Solid Rock
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Ancient Power
+- Whirlpool
+- Protect
+
+Archen @ Lum Berry
+Level: 18
+Ability: Defeatist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Throw
+- Pluck
+- Steel Wing
+- Dig
+
+Onix @ Lum Berry
+Level: 19
+Ability: Weak Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Rock Slide
+- Dig
+- Flash Cannon
+
+Growlithe-Hisui @ Lum Berry
+Level: 19
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Thunder Fang
+- Agility
+- Body Slam
+
+Geodude-Alola @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Protect
+- Rock Tomb
+- Rollout
+
+Geodude @ Lum Berry
+Level: 19
+Ability: Sturdy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bulldoze
+- Protect
+- Rock Tomb
+- Rollout
 
 === TRAINER_BRENDEN ===
 Name: BRENDEN
@@ -13225,11 +15793,242 @@ Pic: Sailor
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Machop
-Level: 13
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Heracross @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Seed
+- Aerial Ace
+- Brick Break
+- Pounce
+
+Machop @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Vital Throw
+- Knock Off
+- Poison Jab
+- Revenge
+
+Mankey @ Lum Berry
+Level: 23
+Ability: Defiant
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cross Chop
+- Swagger
+- Rock Tomb
+- Acrobatics
+
+Farfetch'd-Galar @ Leek
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Fury Cutter
+- Steel Wing
+- Revenge
+
+Hitmonlee @ Lum Berry
+Level: 23
+Ability: Unburden
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Sucker Punch
+- Bulldoze
+- Endeavor
+
+Monferno @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Mach Punch
+- Low Sweep
+- Zen Headbutt
+
+Breloom @ Toxic Orb
+Level: 23
+Ability: Poison Heal
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Mach Punch
+- Brick Break
+- Headbutt
+
+Hariyama @ Oran Berry
+Level: 24
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Arm Thrust
+- Fake Out
+- Knock Off
+- Rock Tomb
+
+Riolu @ Lum Berry
+Level: 23
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Endure
+- Reversal
+- Agility
+- Rock Tomb
+
+Mienfoo @ Oran Berry
+Level: 23
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Force Palm
+- U-turn
+- Acrobatics
+
+Crabrawler @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Brick Break
+- Slam
+- Payback
+
+Stufful @ Lum Berry
+Level: 23
+Ability: Fluffy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Strength
+- Brick Break
+- Brutal Swing
+- Stomping Tantrum
+
+Clobbopus @ Iron Ball
+Level: 23
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Power-Up Punch
+- Bind
+- Detect
+- Sucker Punch
+
+Scraggy @ Lum Berry
+Level: 23
+Ability: Shed Skin
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rest
+- Headbutt
+- Low Kick
+- Thief
+
+Pignite @ Lum Berry
+Level: 23
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Charge
+- Arm Thrust
+- Grass Knot
+- Thunder Punch
+
+Hitmontop @ Lum Berry
+Level: 24
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Sucker Punch
+- Brick Break
+- Dig
+
+Lilligant-Hisui @ Lum Berry
+Level: 22
+Ability: Chlorophyll
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Seed Bomb
+- Substitute
+- Grassy Terrain
+
+Pancham @ Lum Berry
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Circle Throw
+- Work Up
+- Slash
+- Payback
+
+Pawmo @ Lum Berry
+Level: 23
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Bite
+- Low Sweep
+- Nuzzle
+
+Flamigo @ Lum Berry
+Level: 23
+Ability: Tangled Feet
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Low Kick
+- Wing Attack
+- Focus Energy
+- Detect
+
+Falinks @ Lum Berry
+Level: 22
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Focus Energy
+- Rock Tomb
+- Smart Strike
+- Reversal
+
+Sneasel-Hisui @ Lum Berry
+Level: 24
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Metal Claw
+- Poison Jab
+- Low Sweep
+- Aerial Ace
+
+Gurdurr @ Lum Berry
+Level: 24
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Punch
+- Rock Throw
+- Low Kick
+- Slam
+
+Meditite @ Lum Berry
+Level: 23
+Ability: Pure Power
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Force Palm
+- Zen Headbutt
+- Night Shade
+- Fire Punch
+
+Great Tusk @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot
+- Flash Cannon
+- Psyshock
+- Earth Power
+
+Slither Wing @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ember
+- Gust
+- Giga Drain
+- Will-O-Wisp
 
 === TRAINER_LILITH ===
 Name: LILITH
@@ -13238,11 +16037,242 @@ Pic: Battle Girl
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Meditite
-Level: 13
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Heracross @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Seed
+- Aerial Ace
+- Brick Break
+- Pounce
+
+Machop @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Vital Throw
+- Knock Off
+- Poison Jab
+- Revenge
+
+Mankey @ Lum Berry
+Level: 23
+Ability: Defiant
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cross Chop
+- Swagger
+- Rock Tomb
+- Acrobatics
+
+Farfetch'd-Galar @ Leek
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Fury Cutter
+- Steel Wing
+- Revenge
+
+Hitmonlee @ Lum Berry
+Level: 23
+Ability: Unburden
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Sucker Punch
+- Bulldoze
+- Endeavor
+
+Monferno @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Mach Punch
+- Low Sweep
+- Zen Headbutt
+
+Breloom @ Toxic Orb
+Level: 23
+Ability: Poison Heal
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Mach Punch
+- Brick Break
+- Headbutt
+
+Hariyama @ Oran Berry
+Level: 24
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Arm Thrust
+- Fake Out
+- Knock Off
+- Rock Tomb
+
+Riolu @ Lum Berry
+Level: 23
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Endure
+- Reversal
+- Agility
+- Rock Tomb
+
+Mienfoo @ Oran Berry
+Level: 23
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Force Palm
+- U-turn
+- Acrobatics
+
+Crabrawler @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Brick Break
+- Slam
+- Payback
+
+Stufful @ Lum Berry
+Level: 23
+Ability: Fluffy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Strength
+- Brick Break
+- Brutal Swing
+- Stomping Tantrum
+
+Clobbopus @ Iron Ball
+Level: 23
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Power-Up Punch
+- Bind
+- Detect
+- Sucker Punch
+
+Scraggy @ Lum Berry
+Level: 23
+Ability: Shed Skin
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rest
+- Headbutt
+- Low Kick
+- Thief
+
+Pignite @ Lum Berry
+Level: 23
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Charge
+- Arm Thrust
+- Grass Knot
+- Thunder Punch
+
+Hitmontop @ Lum Berry
+Level: 24
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Sucker Punch
+- Brick Break
+- Dig
+
+Lilligant-Hisui @ Lum Berry
+Level: 22
+Ability: Chlorophyll
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Seed Bomb
+- Substitute
+- Grassy Terrain
+
+Pancham @ Lum Berry
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Circle Throw
+- Work Up
+- Slash
+- Payback
+
+Pawmo @ Lum Berry
+Level: 23
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Bite
+- Low Sweep
+- Nuzzle
+
+Flamigo @ Lum Berry
+Level: 23
+Ability: Tangled Feet
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Low Kick
+- Wing Attack
+- Focus Energy
+- Detect
+
+Falinks @ Lum Berry
+Level: 22
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Focus Energy
+- Rock Tomb
+- Smart Strike
+- Reversal
+
+Sneasel-Hisui @ Lum Berry
+Level: 24
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Metal Claw
+- Poison Jab
+- Low Sweep
+- Aerial Ace
+
+Gurdurr @ Lum Berry
+Level: 24
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Punch
+- Rock Throw
+- Low Kick
+- Slam
+
+Meditite @ Lum Berry
+Level: 23
+Ability: Pure Power
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Force Palm
+- Zen Headbutt
+- Night Shade
+- Fire Punch
+
+Great Tusk @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot
+- Flash Cannon
+- Psyshock
+- Earth Power
+
+Slither Wing @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ember
+- Gust
+- Giga Drain
+- Will-O-Wisp
 
 === TRAINER_CRISTIAN ===
 Name: CRISTIAN
@@ -13251,11 +16281,242 @@ Pic: Black Belt
 Gender: Male
 Music: Intense
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Makuhita
-Level: 13
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Heracross @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Seed
+- Aerial Ace
+- Brick Break
+- Pounce
+
+Machop @ Oran Berry
+Level: 23
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Vital Throw
+- Knock Off
+- Poison Jab
+- Revenge
+
+Mankey @ Lum Berry
+Level: 23
+Ability: Defiant
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cross Chop
+- Swagger
+- Rock Tomb
+- Acrobatics
+
+Farfetch'd-Galar @ Leek
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Fury Cutter
+- Steel Wing
+- Revenge
+
+Hitmonlee @ Lum Berry
+Level: 23
+Ability: Unburden
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Sucker Punch
+- Bulldoze
+- Endeavor
+
+Monferno @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Wheel
+- Mach Punch
+- Low Sweep
+- Zen Headbutt
+
+Breloom @ Toxic Orb
+Level: 23
+Ability: Poison Heal
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mega Drain
+- Mach Punch
+- Brick Break
+- Headbutt
+
+Hariyama @ Oran Berry
+Level: 24
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Arm Thrust
+- Fake Out
+- Knock Off
+- Rock Tomb
+
+Riolu @ Lum Berry
+Level: 23
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Endure
+- Reversal
+- Agility
+- Rock Tomb
+
+Mienfoo @ Oran Berry
+Level: 23
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Force Palm
+- U-turn
+- Acrobatics
+
+Crabrawler @ Lum Berry
+Level: 23
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Brick Break
+- Slam
+- Payback
+
+Stufful @ Lum Berry
+Level: 23
+Ability: Fluffy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Strength
+- Brick Break
+- Brutal Swing
+- Stomping Tantrum
+
+Clobbopus @ Iron Ball
+Level: 23
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Power-Up Punch
+- Bind
+- Detect
+- Sucker Punch
+
+Scraggy @ Lum Berry
+Level: 23
+Ability: Shed Skin
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rest
+- Headbutt
+- Low Kick
+- Thief
+
+Pignite @ Lum Berry
+Level: 23
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flame Charge
+- Arm Thrust
+- Grass Knot
+- Thunder Punch
+
+Hitmontop @ Lum Berry
+Level: 24
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Sucker Punch
+- Brick Break
+- Dig
+
+Lilligant-Hisui @ Lum Berry
+Level: 22
+Ability: Chlorophyll
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Seed Bomb
+- Substitute
+- Grassy Terrain
+
+Pancham @ Lum Berry
+Level: 23
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Circle Throw
+- Work Up
+- Slash
+- Payback
+
+Pawmo @ Lum Berry
+Level: 23
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Bite
+- Low Sweep
+- Nuzzle
+
+Flamigo @ Lum Berry
+Level: 23
+Ability: Tangled Feet
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Low Kick
+- Wing Attack
+- Focus Energy
+- Detect
+
+Falinks @ Lum Berry
+Level: 22
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Focus Energy
+- Rock Tomb
+- Smart Strike
+- Reversal
+
+Sneasel-Hisui @ Lum Berry
+Level: 24
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Metal Claw
+- Poison Jab
+- Low Sweep
+- Aerial Ace
+
+Gurdurr @ Lum Berry
+Level: 24
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Punch
+- Rock Throw
+- Low Kick
+- Slam
+
+Meditite @ Lum Berry
+Level: 23
+Ability: Pure Power
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Force Palm
+- Zen Headbutt
+- Night Shade
+- Fire Punch
+
+Great Tusk @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot
+- Flash Cannon
+- Psyshock
+- Earth Power
+
+Slither Wing @ Iron Ball
+Level: 24
+Ability: Protosynthesis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ember
+- Gust
+- Giga Drain
+- Will-O-Wisp
 
 === TRAINER_SYLVIA ===
 Name: SYLVIA
@@ -13705,20 +16966,20 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
-- Big Bite
+- Bug Bite
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Poison Sting
-- Big Bite
+- Bug Bite
 
 Sunkern
 Level: 10
@@ -13729,7 +16990,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Endeavor
 
 Azurill
-Level: 9
+Level: 7
 Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
@@ -13738,7 +16999,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Kricketot
-Level: 9
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
@@ -13747,7 +17008,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lunge
 
 Skitty
-Level: 9
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -13756,7 +17017,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Scatterbug
-Level: 9
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
@@ -13765,7 +17026,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tackle
 
 Blipbug
-Level: 9
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -13774,7 +17035,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
@@ -13783,7 +17044,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Memento
 
 Snom
-Level: 9
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -13792,7 +17053,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -13800,7 +17061,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -13809,13 +17070,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 9
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Pichu
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -13824,7 +17085,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
@@ -13833,7 +17094,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Sprigatito @ Lum Berry
-Level: 9
+Level: 7
 Ability: Protean
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
@@ -13842,7 +17103,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scratch
 
 Fuecoco @ Lum Berry
-Level: 9
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
@@ -13860,7 +17121,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roost
 
 Tyrogue
-Level: 9
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -13869,7 +17130,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -13878,7 +17139,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 9
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -13887,7 +17148,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Seedot
-Level: 9
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -13896,7 +17157,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 9
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
@@ -13905,7 +17166,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -13914,7 +17175,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -13932,7 +17193,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Tears
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -13941,7 +17202,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Sound
 
 Combee
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
@@ -13949,7 +17210,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Scent
 
 Togepi
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -13958,7 +17219,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Nickit
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
@@ -13967,7 +17228,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 9
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -13976,7 +17237,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 9
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -14207,7 +17468,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -14271,7 +17532,7 @@ Double Battle: No
 AI: Check Bad Move
 
 Marill
-Level: 9
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_VIVI ===
@@ -14442,20 +17703,20 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
-- Big Bite
+- Bug Bite
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Poison Sting
-- Big Bite
+- Bug Bite
 
 Sunkern
 Level: 10
@@ -14466,7 +17727,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Endeavor
 
 Azurill
-Level: 9
+Level: 7
 Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
@@ -14475,7 +17736,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Kricketot
-Level: 9
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
@@ -14484,7 +17745,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lunge
 
 Skitty
-Level: 9
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -14493,7 +17754,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Scatterbug
-Level: 9
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
@@ -14502,7 +17763,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tackle
 
 Blipbug
-Level: 9
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -14511,7 +17772,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
@@ -14520,7 +17781,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Memento
 
 Snom
-Level: 9
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -14529,7 +17790,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -14537,7 +17798,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -14546,13 +17807,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 9
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Pichu
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -14561,7 +17822,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
@@ -14570,7 +17831,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Sprigatito @ Lum Berry
-Level: 9
+Level: 7
 Ability: Protean
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
@@ -14579,7 +17840,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scratch
 
 Fuecoco @ Lum Berry
-Level: 9
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
@@ -14597,7 +17858,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roost
 
 Tyrogue
-Level: 9
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -14606,7 +17867,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -14615,7 +17876,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 9
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -14624,7 +17885,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Seedot
-Level: 9
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -14633,7 +17894,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 9
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
@@ -14642,7 +17903,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -14651,7 +17912,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -14669,7 +17930,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Tears
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -14678,7 +17939,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Sound
 
 Combee
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
@@ -14686,7 +17947,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Scent
 
 Togepi
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -14695,7 +17956,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Nickit
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
@@ -14704,7 +17965,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 9
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -14713,7 +17974,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 9
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -14944,7 +18205,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -15212,7 +18473,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -15527,7 +18788,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -15758,6 +19019,7 @@ Gender: Male
 Music: Hiker
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 2
 
 Geodude @ Lum Berry
 Level: 17
@@ -15804,7 +19066,7 @@ Double Battle: No
 AI: Check Bad Move
 
 Wailmer
-Level: 9
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Splash
 - Water Gun
@@ -17202,20 +20464,20 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
-- Big Bite
+- Bug Bite
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Poison Sting
-- Big Bite
+- Bug Bite
 
 Sunkern
 Level: 10
@@ -17226,7 +20488,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Endeavor
 
 Azurill
-Level: 9
+Level: 7
 Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
@@ -17235,7 +20497,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Kricketot
-Level: 9
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
@@ -17244,7 +20506,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lunge
 
 Skitty
-Level: 9
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -17253,7 +20515,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Scatterbug
-Level: 9
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
@@ -17262,7 +20524,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tackle
 
 Blipbug
-Level: 9
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -17271,7 +20533,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
@@ -17280,7 +20542,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Memento
 
 Snom
-Level: 9
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -17289,7 +20551,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -17297,7 +20559,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -17306,13 +20568,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 9
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 
 Pichu
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -17321,7 +20583,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
@@ -17330,7 +20592,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Perish Song
 
 Sprigatito @ Lum Berry
-Level: 9
+Level: 7
 Ability: Protean
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
@@ -17339,7 +20601,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Scratch
 
 Fuecoco @ Lum Berry
-Level: 9
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
@@ -17357,7 +20619,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roost
 
 Tyrogue
-Level: 9
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -17366,7 +20628,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 9
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -17375,7 +20637,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 9
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -17384,7 +20646,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Seedot
-Level: 9
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -17393,7 +20655,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 9
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
@@ -17402,7 +20664,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -17411,7 +20673,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -17429,7 +20691,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Tears
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -17438,7 +20700,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Sound
 
 Combee
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
@@ -17446,7 +20708,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Scent
 
 Togepi
-Level: 9
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -17455,7 +20717,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Present
 
 Nickit
-Level: 9
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
@@ -17464,7 +20726,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 9
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -17473,7 +20735,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 9
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -17510,15 +20772,263 @@ Pic: Tuber M
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 3
 
-Tentacool
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Grotle @ Loaded Dice
+Level: 22
+Ability: Shell Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Bite
+- Bullet Seed
+- Bulldoze
 
-Tentacool
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Prinplup @ Lum Berry
+Level: 22
+Ability: Competitive
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bubble Beam
+- Aerial Ace
+- Icy Wind
+- Flip Turn
+
+Torracat @ Lum Berry
+Level: 22
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Bite
+- Fire Fang
+- U-turn
+
+Charmeleon @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Dig
+- Dragon Breath
+- Take Down
+
+Servine @ Lum Berry
+Level: 22
+Ability: Contrary
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leech Seed
+- Magical Leaf
+- Aerial Ace
+- Tera Blast
+
+Drizzile @ Lum Berry
+Level: 22
+Ability: Sniper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Mud Shot
+- Rain Dance
+- Fell Stinger
+
+Quilladin @ Oran Berry
+Level: 22
+Ability: Overgrow
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Seed Bomb
+- Bite
+- Pin Missile
+- Facade
+
+Braixen @ Lum Berry
+Level: 22
+Ability: Blaze
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Flame Charge
+- Mud Shot
+- Solar Beam
+
+Quaxwell @ Lum Berry
+Level: 24
+Ability: Torrent
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Jet
+- Aqua Cutter
+- Low Sweep
+- Wing Attack
+
+Dunsparce @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
+- Take Down
+- Poison Tail
+- Bulldoze
+
+Emolga @ Lum Berry
+Level: 22
+Ability: Serene Grace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Nuzzle
+- Electroweb
+- U-turn
+- Roost
+
+Gligar @ Lum Berry
+Level: 22
+Ability: Hyper Cutter
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Fury Cutter
+- Poison Tail
+- Knock Off
+
+Illumise @ Lum Berry
+Level: 23
+Ability: Tinted Lens
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Struggle Bug
+- Moonlight
+- Quick Attack
+- Water Pulse
+
+Dedenne @ Oran Berry
+Level: 22
+Ability: Cheek Pouch
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Magnet Rise
+- Thunder Shock
+- Grass Knot
+- Draining Kiss
+
+Misdreavus @ Lum Berry
+Level: 23
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hex
+- Stored Power
+- Charge Beam
+- Draining Kiss
+
+Persian-Alola @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Bite
+- Metal Claw
+- Shadow Claw
+
+Arbok @ Lum Berry
+Level: 22
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Ice Fang
+- Thunder Fang
+- Poison Tail
+
+Venomoth @ Lum Berry
+Level: 23
+Ability: Shield Dust
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Confusion
+- Stun Spore
+- Venoshock
+
+Sableye @ Lum Berry
+Level: 22
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Night Shade
+- Fake Out
+- Shadow Sneak
+- Thief
+
+Porygon @ Lum Berry
+Level: 22
+Ability: Trace
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Thunder Shock
+- Swift
+- Protect
+
+Delibird @ Lum Berry
+Level: 22
+Ability: Hustle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Present
+
+Honedge @ Lum Berry
+Level: 22
+Ability: No Guard
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Shadow Sneak
+- Brutal Swing
+- Psycho Cut
+
+Pelipper @ Lum Berry
+Level: 22
+Ability: Drizzle
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wing Attack
+- Water Pulse
+- Icy Wind
+- Tailwind
+
+Girafarig @ Lum Berry
+Level: 22
+Ability: Sap Sipper
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+- Confusion
+- Low Kick
+- Grass Knot
+
+Chimecho @ Lum Berry
+Level: 22
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psybeam
+- Disarming Voice
+- Icy Wind
+- Fake Tears
+
+Loudred @ Metronome
+Level: 22
+Ability: Scrappy
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stomp
+
+Aipom @ Lum Berry
+Level: 22
+Ability: Skill Link
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Swipes
+- Thief
+- Low Kick
+- Water Pulse
+
+Nidorina @ Lum Berry
+Level: 22
+Ability: Poison Point
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic Spikes
+- Double Kick
+- Aerial Ace
+- Poison Fang
+
+Pachirisu @ Lum Berry
+Level: 22
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spark
+- Nuzzle
+- Mud Shot
+- Seed Bomb
 
 === TRAINER_KALEB ===
 Name: KALEB
@@ -18574,7 +22084,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Attract
 
-Eelektrik @ Oran Berry (25)
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -18636,6 +22146,7 @@ Gender: Male
 Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
+Party Size: 2
 
 Sandshrew @ Lum Berry
 Level: 17
