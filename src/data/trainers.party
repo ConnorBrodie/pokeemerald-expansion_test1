@@ -2733,19 +2733,18 @@ Gender: Female
 Music: Female
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
-Party Size: 4
+Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
 - Bug Bite
-- Electroweb
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -2753,51 +2752,51 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 
 Sunkern
-Level: 8
+Level: 10
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Absorb
-- Grassy Terrain
-- Leech Seed
-- Ingrain
+- Mega Drain
+- Growth
+- Endeavor
 
 Azurill
-Level: 8
-Ability: Huge Power
+Level: 7
+Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
-- Present
+- Charm
+- Tail Whip
 - Perish Song
-- Aqua Jet
 
 Kricketot
-Level: 8
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 - Growl
+- Bug Bite
 - Lunge
-- Skitter Smack
 
 Skitty
-Level: 8
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Sing
 - Tackle
-- Double Team
+- Water Pulse
 
 Scatterbug
-Level: 8
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
 - Stun Spore
 - Bug Bite
+- Tackle
 
 Blipbug
-Level: 8
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -2806,16 +2805,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 8
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
 - Struggle Bug
-- Facade
+- First Impression
 - Memento
 
 Snom
-Level: 8
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -2824,7 +2823,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -2832,7 +2831,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -2841,14 +2840,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 8
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
-- Confuse Ray
 
 Pichu
-Level: 8
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -2857,13 +2855,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
 - Copycat
 - Covet
-- Last Resort
+- Perish Song
 
 Sprigatito @ Lum Berry
 Level: 7
@@ -2872,28 +2870,28 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
 - Bite
 - Tail Whip
-- Disarming Voice
+- Scratch
 
 Fuecoco @ Lum Berry
-Level: 8
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
 - Round
-- Slack Off
 - Belch
+- Slack Off
 
 Quaxly @ Lum Berry
-Level: 7
+Level: 10
 Ability: Moxie
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Acrobatics
+- Wing Attack
 - Work Up
 - Water Gun
 - Roost
 
 Tyrogue
-Level: 8
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -2902,7 +2900,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -2911,16 +2909,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 8
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Reflect
-- Draining Kiss
-- Calm Mind
+- Sweet Kiss
+- Defense Curl
+- Disarming Voice
+- Present
 
 Seedot
-Level: 8
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -2929,16 +2927,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 8
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
 - Water Gun
 - Astonish
-- Icy Wind
+- Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -2947,7 +2945,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -2956,16 +2954,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Growl
 
 Whismur
-Level: 8
+Level: 10
 Ability: Soundproof
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Howl
 - Pound
 - Astonish
 - Fake Tears
-- Circle Throw
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -2980,10 +2978,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 - Gust
 - Sweet Scent
-- Endeavor
 
 Togepi
-Level: 8
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -2991,9 +2988,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Life Dew
 - Present
 
-Nickit @ Oran Berry
-Level: 8
-Ability: Unburden
+Nickit
+Level: 7
+Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
 - Quick Attack
@@ -3001,7 +2998,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 8
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -3010,18 +3007,21 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 8
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
 - Smog
-- Acid Armor
+- Yawn
 - Ember
 
 Swinub
-Level: 9
-Ability: Thick Fat
+Level: 10
+Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Powder Snow
+- Flail
+- Mud Slap
 - Fissure
 
 === TRAINER_DAPHNE ===
@@ -3424,17 +3424,17 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -3442,40 +3442,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -3487,29 +3487,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -3520,46 +3521,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -3568,101 +3569,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -3670,14 +3673,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_MOLLIE ===
 Name: MOLLIE
@@ -6175,69 +6178,59 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Check Bad Move / Try To Faint / Check Viability
-Party Size: 6
 
-Rhyhorn @ Focus Sash
-Level: 17
+Rhydon @ Focus Sash
+Level: 19
 Ability: Rock Head
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Take Down
-- Bulldoze
+- Drill Run
 - Megahorn
 - Thunder Fang
 
-Minior @ Lum Berry
-Level: 17
+Minior @ Focus Sash
+Level: 19
 Ability: Shields Down
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ancient Power
 - Rollout
-- U-turn
+- Self-Destruct
 - Rock Polish
 
 Stonjourner @ Red Card
-Level: 16
+Level: 19
 Ability: Power Spot
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rock Slide
+- Stealth Rock
 - Block
 - Protect
+- Stone Edge
 
-Aron @ Starf Berry
-Level: 18
+Lairon @ Sitrus Berry
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Dig
-- Sandstorm
+- Metal Sound
+- Rock Slide
+- Iron Head
 - Roar
 
-Larvitar @ Weakness Policy
-Level: 18
+Pupitar @ Weakness Policy
+Level: 19
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
-- Payback
+- Bite
 - Stomping Tantrum
 - Sandstorm
 
 Klawf @ Lum Berry
-Level: 16
+Level: 20
 Ability: Shell Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Blast
-- Throat Chop
+- Guillotine
 - X-Scissor
-- Endeavor
-
-Carbink
-Level: 16
-Ability: Clear Body
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Reflect
-- Light Screen
-- Trick Room
-- Rock Blast
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
@@ -6742,17 +6735,17 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -6760,40 +6753,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -6805,29 +6798,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -6838,46 +6832,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -6886,101 +6880,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -6988,14 +6984,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_GEORGIA ===
 Name: GEORGIA
@@ -7692,16 +7688,15 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
 - Bug Bite
-- Electroweb
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -7709,51 +7704,51 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 
 Sunkern
-Level: 8
+Level: 10
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Absorb
-- Grassy Terrain
-- Leech Seed
-- Ingrain
+- Mega Drain
+- Growth
+- Endeavor
 
 Azurill
-Level: 8
-Ability: Huge Power
+Level: 7
+Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
-- Present
+- Charm
+- Tail Whip
 - Perish Song
-- Aqua Jet
 
 Kricketot
-Level: 8
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 - Growl
+- Bug Bite
 - Lunge
-- Skitter Smack
 
 Skitty
-Level: 8
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Sing
 - Tackle
-- Double Team
+- Water Pulse
 
 Scatterbug
-Level: 8
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
 - Stun Spore
 - Bug Bite
+- Tackle
 
 Blipbug
-Level: 8
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -7762,16 +7757,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 8
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
 - Struggle Bug
-- Facade
+- First Impression
 - Memento
 
 Snom
-Level: 8
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -7780,7 +7775,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -7788,7 +7783,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -7797,14 +7792,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 8
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
-- Confuse Ray
 
 Pichu
-Level: 8
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -7813,13 +7807,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
 - Copycat
 - Covet
-- Last Resort
+- Perish Song
 
 Sprigatito @ Lum Berry
 Level: 7
@@ -7828,28 +7822,28 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
 - Bite
 - Tail Whip
-- Disarming Voice
+- Scratch
 
 Fuecoco @ Lum Berry
-Level: 8
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
 - Round
-- Slack Off
 - Belch
+- Slack Off
 
 Quaxly @ Lum Berry
-Level: 7
+Level: 10
 Ability: Moxie
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Acrobatics
+- Wing Attack
 - Work Up
 - Water Gun
 - Roost
 
 Tyrogue
-Level: 8
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -7858,7 +7852,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -7867,16 +7861,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 8
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Reflect
-- Draining Kiss
-- Calm Mind
+- Sweet Kiss
+- Defense Curl
+- Disarming Voice
+- Present
 
 Seedot
-Level: 8
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -7885,16 +7879,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 8
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
 - Water Gun
 - Astonish
-- Icy Wind
+- Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -7903,7 +7897,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -7912,16 +7906,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Growl
 
 Whismur
-Level: 8
+Level: 10
 Ability: Soundproof
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Howl
 - Pound
 - Astonish
 - Fake Tears
-- Circle Throw
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -7936,10 +7930,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 - Gust
 - Sweet Scent
-- Endeavor
 
 Togepi
-Level: 8
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -7947,9 +7940,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Life Dew
 - Present
 
-Nickit @ Oran Berry
-Level: 8
-Ability: Unburden
+Nickit
+Level: 7
+Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
 - Quick Attack
@@ -7957,7 +7950,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 8
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -7966,18 +7959,21 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 8
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
 - Smog
-- Acid Armor
+- Yawn
 - Ember
 
 Swinub
-Level: 9
-Ability: Thick Fat
+Level: 10
+Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Powder Snow
+- Flail
+- Mud Slap
 - Fissure
 
 === TRAINER_BILLY ===
@@ -7991,16 +7987,15 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
 - Bug Bite
-- Electroweb
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -8008,51 +8003,51 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 
 Sunkern
-Level: 8
+Level: 10
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Absorb
-- Grassy Terrain
-- Leech Seed
-- Ingrain
+- Mega Drain
+- Growth
+- Endeavor
 
 Azurill
-Level: 8
-Ability: Huge Power
+Level: 7
+Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
-- Present
+- Charm
+- Tail Whip
 - Perish Song
-- Aqua Jet
 
 Kricketot
-Level: 8
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 - Growl
+- Bug Bite
 - Lunge
-- Skitter Smack
 
 Skitty
-Level: 8
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Sing
 - Tackle
-- Double Team
+- Water Pulse
 
 Scatterbug
-Level: 8
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
 - Stun Spore
 - Bug Bite
+- Tackle
 
 Blipbug
-Level: 8
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -8061,16 +8056,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 8
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
 - Struggle Bug
-- Facade
+- First Impression
 - Memento
 
 Snom
-Level: 8
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -8079,7 +8074,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -8087,7 +8082,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -8096,14 +8091,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 8
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
-- Confuse Ray
 
 Pichu
-Level: 8
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -8112,13 +8106,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
 - Copycat
 - Covet
-- Last Resort
+- Perish Song
 
 Sprigatito @ Lum Berry
 Level: 7
@@ -8127,28 +8121,28 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
 - Bite
 - Tail Whip
-- Disarming Voice
+- Scratch
 
 Fuecoco @ Lum Berry
-Level: 8
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
 - Round
-- Slack Off
 - Belch
+- Slack Off
 
 Quaxly @ Lum Berry
-Level: 7
+Level: 10
 Ability: Moxie
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Acrobatics
+- Wing Attack
 - Work Up
 - Water Gun
 - Roost
 
 Tyrogue
-Level: 8
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -8157,7 +8151,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -8166,16 +8160,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 8
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Reflect
-- Draining Kiss
-- Calm Mind
+- Sweet Kiss
+- Defense Curl
+- Disarming Voice
+- Present
 
 Seedot
-Level: 8
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -8184,16 +8178,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 8
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
 - Water Gun
 - Astonish
-- Icy Wind
+- Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -8202,7 +8196,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -8211,16 +8205,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Growl
 
 Whismur
-Level: 8
+Level: 10
 Ability: Soundproof
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Howl
 - Pound
 - Astonish
 - Fake Tears
-- Circle Throw
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -8235,10 +8229,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 - Gust
 - Sweet Scent
-- Endeavor
 
 Togepi
-Level: 8
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -8246,9 +8239,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Life Dew
 - Present
 
-Nickit @ Oran Berry
-Level: 8
-Ability: Unburden
+Nickit
+Level: 7
+Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
 - Quick Attack
@@ -8256,7 +8249,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 8
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -8265,18 +8258,21 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 8
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
 - Smog
-- Acid Armor
+- Yawn
 - Ember
 
 Swinub
-Level: 9
-Ability: Thick Fat
+Level: 10
+Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Powder Snow
+- Flail
+- Mud Slap
 - Fissure
 
 === TRAINER_JOSH ===
@@ -8290,16 +8286,16 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Sudowoodo @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Low Kick
-- Trailblaze
+- Wood Hammer
 - Sandstorm
 
 Larvitar @ Lum Berry
-Level: 18
+Level: 19
 Ability: Sand Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
@@ -8308,25 +8304,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 Omanyte
-Level: 16
+Level: 18
 Ability: Shell Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Stealth Rock
+- Mud Shot
 - Gyro Ball
 
 Anorith @ Lum Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Ancient Power
+- Rock Tomb
 - Metal Claw
 - Aerial Ace
 
 Cranidos @ Lum Berry
-Level: 15
+Level: 19
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Headbutt
@@ -8335,16 +8331,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Punch
 
 Shieldon @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Take Down
 - Rock Blast
 - Stomping Tantrum
-- Iron Head
+- Flash Cannon
 
 Lileep @ Lum Berry
-Level: 17
+Level: 18
 Ability: Suction Cups
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
@@ -8353,25 +8349,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ingrain
 
 Nosepass @ Lum Berry
-Level: 16
+Level: 19
 Ability: Magnet Pull
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Stomping Tantrum
+- Rock Throw
 - Thunder Wave
 - Stealth Rock
 - Heavy Slam
 
 Tyrunt @ Lum Berry
-Level: 16
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Dig
+- Dragon Tail
 - Bite
 - Ancient Power
-- Charm
+- Brick Break
 
 Glimmet @ Lum Berry
-Level: 16
+Level: 19
 Ability: Toxic Debris
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Smack Down
@@ -8380,7 +8376,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 
 Tirtouga @ Lum Berry
-Level: 17
+Level: 19
 Ability: Solid Rock
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aqua Jet
@@ -8389,7 +8385,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 Archen @ Lum Berry
-Level: 16
+Level: 18
 Ability: Defeatist
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -8398,25 +8394,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Dig
 
 Onix @ Lum Berry
-Level: 17
+Level: 19
 Ability: Weak Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Curse
 - Rock Slide
 - Dig
-- Dragon Tail
+- Flash Cannon
 
 Growlithe-Hisui @ Lum Berry
-Level: 17
+Level: 19
 Ability: Intimidate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flame Wheel
 - Thunder Fang
-- Howl
-- Sunny Day
+- Agility
+- Body Slam
 
 Geodude-Alola @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Spark
@@ -8425,7 +8421,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Geodude @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bulldoze
@@ -8444,16 +8440,16 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Sudowoodo @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Low Kick
-- Trailblaze
+- Wood Hammer
 - Sandstorm
 
 Larvitar @ Lum Berry
-Level: 18
+Level: 19
 Ability: Sand Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
@@ -8462,25 +8458,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 Omanyte
-Level: 16
+Level: 18
 Ability: Shell Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Stealth Rock
+- Mud Shot
 - Gyro Ball
 
 Anorith @ Lum Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Ancient Power
+- Rock Tomb
 - Metal Claw
 - Aerial Ace
 
 Cranidos @ Lum Berry
-Level: 15
+Level: 19
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Headbutt
@@ -8489,16 +8485,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Punch
 
 Shieldon @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Take Down
 - Rock Blast
 - Stomping Tantrum
-- Iron Head
+- Flash Cannon
 
 Lileep @ Lum Berry
-Level: 17
+Level: 18
 Ability: Suction Cups
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
@@ -8507,25 +8503,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ingrain
 
 Nosepass @ Lum Berry
-Level: 16
+Level: 19
 Ability: Magnet Pull
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Stomping Tantrum
+- Rock Throw
 - Thunder Wave
 - Stealth Rock
 - Heavy Slam
 
 Tyrunt @ Lum Berry
-Level: 16
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Dig
+- Dragon Tail
 - Bite
 - Ancient Power
-- Charm
+- Brick Break
 
 Glimmet @ Lum Berry
-Level: 16
+Level: 19
 Ability: Toxic Debris
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Smack Down
@@ -8534,7 +8530,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 
 Tirtouga @ Lum Berry
-Level: 17
+Level: 19
 Ability: Solid Rock
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aqua Jet
@@ -8543,7 +8539,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 Archen @ Lum Berry
-Level: 16
+Level: 18
 Ability: Defeatist
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -8552,25 +8548,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Dig
 
 Onix @ Lum Berry
-Level: 17
+Level: 19
 Ability: Weak Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Curse
 - Rock Slide
 - Dig
-- Dragon Tail
+- Flash Cannon
 
 Growlithe-Hisui @ Lum Berry
-Level: 17
+Level: 19
 Ability: Intimidate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flame Wheel
 - Thunder Fang
-- Howl
-- Sunny Day
+- Agility
+- Body Slam
 
 Geodude-Alola @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Spark
@@ -8579,7 +8575,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Geodude @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bulldoze
@@ -8597,17 +8593,17 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -8615,40 +8611,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -8660,29 +8656,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -8693,46 +8690,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -8741,101 +8738,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -8843,14 +8842,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_BEN ===
 Name: BEN
@@ -9055,16 +9054,15 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
 - Bug Bite
-- Electroweb
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -9072,51 +9070,51 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 
 Sunkern
-Level: 8
+Level: 10
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Absorb
-- Grassy Terrain
-- Leech Seed
-- Ingrain
+- Mega Drain
+- Growth
+- Endeavor
 
 Azurill
-Level: 8
-Ability: Huge Power
+Level: 7
+Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
-- Present
+- Charm
+- Tail Whip
 - Perish Song
-- Aqua Jet
 
 Kricketot
-Level: 8
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 - Growl
+- Bug Bite
 - Lunge
-- Skitter Smack
 
 Skitty
-Level: 8
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Sing
 - Tackle
-- Double Team
+- Water Pulse
 
 Scatterbug
-Level: 8
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
 - Stun Spore
 - Bug Bite
+- Tackle
 
 Blipbug
-Level: 8
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -9125,16 +9123,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 8
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
 - Struggle Bug
-- Facade
+- First Impression
 - Memento
 
 Snom
-Level: 8
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -9143,7 +9141,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -9151,7 +9149,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -9160,14 +9158,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 8
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
-- Confuse Ray
 
 Pichu
-Level: 8
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -9176,13 +9173,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
 - Copycat
 - Covet
-- Last Resort
+- Perish Song
 
 Sprigatito @ Lum Berry
 Level: 7
@@ -9191,28 +9188,28 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
 - Bite
 - Tail Whip
-- Disarming Voice
+- Scratch
 
 Fuecoco @ Lum Berry
-Level: 8
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
 - Round
-- Slack Off
 - Belch
+- Slack Off
 
 Quaxly @ Lum Berry
-Level: 7
+Level: 10
 Ability: Moxie
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Acrobatics
+- Wing Attack
 - Work Up
 - Water Gun
 - Roost
 
 Tyrogue
-Level: 8
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -9221,7 +9218,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -9230,16 +9227,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 8
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Reflect
-- Draining Kiss
-- Calm Mind
+- Sweet Kiss
+- Defense Curl
+- Disarming Voice
+- Present
 
 Seedot
-Level: 8
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -9248,16 +9245,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 8
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
 - Water Gun
 - Astonish
-- Icy Wind
+- Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -9266,7 +9263,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -9275,16 +9272,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Growl
 
 Whismur
-Level: 8
+Level: 10
 Ability: Soundproof
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Howl
 - Pound
 - Astonish
 - Fake Tears
-- Circle Throw
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -9299,10 +9296,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 - Gust
 - Sweet Scent
-- Endeavor
 
 Togepi
-Level: 8
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -9310,9 +9306,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Life Dew
 - Present
 
-Nickit @ Oran Berry
-Level: 8
-Ability: Unburden
+Nickit
+Level: 7
+Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
 - Quick Attack
@@ -9320,7 +9316,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 8
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -9329,18 +9325,21 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 8
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
 - Smog
-- Acid Armor
+- Yawn
 - Ember
 
 Swinub
-Level: 9
-Ability: Thick Fat
+Level: 10
+Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Powder Snow
+- Flail
+- Mud Slap
 - Fissure
 
 === TRAINER_TIMMY ===
@@ -9450,17 +9449,17 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -9468,40 +9467,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -9513,29 +9512,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -9546,46 +9546,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -9594,101 +9594,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -9696,14 +9698,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_CLAUDE ===
 Name: CLAUDE
@@ -13129,17 +13131,17 @@ Double Battle: Yes
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 4
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -13147,40 +13149,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -13192,29 +13194,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -13225,46 +13228,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -13273,101 +13276,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -13375,14 +13380,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_MIU_AND_YUKI ===
 Name: MIU & YUKI
@@ -15635,19 +15640,19 @@ Gender: Male
 Music: Hiker
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
-Party Size: 4
+Party Size: 3
 
 Sudowoodo @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Low Kick
-- Trailblaze
+- Wood Hammer
 - Sandstorm
 
 Larvitar @ Lum Berry
-Level: 18
+Level: 19
 Ability: Sand Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
@@ -15656,25 +15661,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 Omanyte
-Level: 16
+Level: 18
 Ability: Shell Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Stealth Rock
+- Mud Shot
 - Gyro Ball
 
 Anorith @ Lum Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Ancient Power
+- Rock Tomb
 - Metal Claw
 - Aerial Ace
 
 Cranidos @ Lum Berry
-Level: 15
+Level: 19
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Headbutt
@@ -15683,16 +15688,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Punch
 
 Shieldon @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Take Down
 - Rock Blast
 - Stomping Tantrum
-- Iron Head
+- Flash Cannon
 
 Lileep @ Lum Berry
-Level: 17
+Level: 18
 Ability: Suction Cups
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
@@ -15701,25 +15706,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ingrain
 
 Nosepass @ Lum Berry
-Level: 16
+Level: 19
 Ability: Magnet Pull
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Stomping Tantrum
+- Rock Throw
 - Thunder Wave
 - Stealth Rock
 - Heavy Slam
 
 Tyrunt @ Lum Berry
-Level: 16
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Dig
+- Dragon Tail
 - Bite
 - Ancient Power
-- Charm
+- Brick Break
 
 Glimmet @ Lum Berry
-Level: 16
+Level: 19
 Ability: Toxic Debris
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Smack Down
@@ -15728,7 +15733,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 
 Tirtouga @ Lum Berry
-Level: 17
+Level: 19
 Ability: Solid Rock
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aqua Jet
@@ -15737,7 +15742,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 Archen @ Lum Berry
-Level: 16
+Level: 18
 Ability: Defeatist
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
@@ -15746,25 +15751,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Dig
 
 Onix @ Lum Berry
-Level: 17
+Level: 19
 Ability: Weak Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Curse
 - Rock Slide
 - Dig
-- Dragon Tail
+- Flash Cannon
 
 Growlithe-Hisui @ Lum Berry
-Level: 17
+Level: 19
 Ability: Intimidate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flame Wheel
 - Thunder Fang
-- Howl
-- Sunny Day
+- Agility
+- Body Slam
 
 Geodude-Alola @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Spark
@@ -15773,7 +15778,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Geodude @ Lum Berry
-Level: 17
+Level: 19
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bulldoze
@@ -16961,16 +16966,15 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
 - Bug Bite
-- Electroweb
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -16978,51 +16982,51 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 
 Sunkern
-Level: 8
+Level: 10
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Absorb
-- Grassy Terrain
-- Leech Seed
-- Ingrain
+- Mega Drain
+- Growth
+- Endeavor
 
 Azurill
-Level: 8
-Ability: Huge Power
+Level: 7
+Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
-- Present
+- Charm
+- Tail Whip
 - Perish Song
-- Aqua Jet
 
 Kricketot
-Level: 8
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 - Growl
+- Bug Bite
 - Lunge
-- Skitter Smack
 
 Skitty
-Level: 8
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Sing
 - Tackle
-- Double Team
+- Water Pulse
 
 Scatterbug
-Level: 8
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
 - Stun Spore
 - Bug Bite
+- Tackle
 
 Blipbug
-Level: 8
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -17031,16 +17035,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 8
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
 - Struggle Bug
-- Facade
+- First Impression
 - Memento
 
 Snom
-Level: 8
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -17049,7 +17053,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -17057,7 +17061,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -17066,14 +17070,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 8
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
-- Confuse Ray
 
 Pichu
-Level: 8
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -17082,13 +17085,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
 - Copycat
 - Covet
-- Last Resort
+- Perish Song
 
 Sprigatito @ Lum Berry
 Level: 7
@@ -17097,28 +17100,28 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
 - Bite
 - Tail Whip
-- Disarming Voice
+- Scratch
 
 Fuecoco @ Lum Berry
-Level: 8
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
 - Round
-- Slack Off
 - Belch
+- Slack Off
 
 Quaxly @ Lum Berry
-Level: 7
+Level: 10
 Ability: Moxie
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Acrobatics
+- Wing Attack
 - Work Up
 - Water Gun
 - Roost
 
 Tyrogue
-Level: 8
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -17127,7 +17130,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -17136,16 +17139,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 8
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Reflect
-- Draining Kiss
-- Calm Mind
+- Sweet Kiss
+- Defense Curl
+- Disarming Voice
+- Present
 
 Seedot
-Level: 8
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -17154,16 +17157,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 8
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
 - Water Gun
 - Astonish
-- Icy Wind
+- Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -17172,7 +17175,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -17181,16 +17184,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Growl
 
 Whismur
-Level: 8
+Level: 10
 Ability: Soundproof
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Howl
 - Pound
 - Astonish
 - Fake Tears
-- Circle Throw
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -17205,10 +17208,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 - Gust
 - Sweet Scent
-- Endeavor
 
 Togepi
-Level: 8
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -17216,9 +17218,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Life Dew
 - Present
 
-Nickit @ Oran Berry
-Level: 8
-Ability: Unburden
+Nickit
+Level: 7
+Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
 - Quick Attack
@@ -17226,7 +17228,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 8
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -17235,18 +17237,21 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 8
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
 - Smog
-- Acid Armor
+- Yawn
 - Ember
 
 Swinub
-Level: 9
-Ability: Thick Fat
+Level: 10
+Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Powder Snow
+- Flail
+- Mud Slap
 - Fissure
 
 === TRAINER_HALEY_1 ===
@@ -17259,17 +17264,17 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -17277,40 +17282,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -17322,29 +17327,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -17355,46 +17361,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -17403,101 +17409,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -17505,14 +17513,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_JANICE ===
 Name: JANICE
@@ -17695,16 +17703,15 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
 - Bug Bite
-- Electroweb
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -17712,51 +17719,51 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 
 Sunkern
-Level: 8
+Level: 10
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Absorb
-- Grassy Terrain
-- Leech Seed
-- Ingrain
+- Mega Drain
+- Growth
+- Endeavor
 
 Azurill
-Level: 8
-Ability: Huge Power
+Level: 7
+Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
-- Present
+- Charm
+- Tail Whip
 - Perish Song
-- Aqua Jet
 
 Kricketot
-Level: 8
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 - Growl
+- Bug Bite
 - Lunge
-- Skitter Smack
 
 Skitty
-Level: 8
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Sing
 - Tackle
-- Double Team
+- Water Pulse
 
 Scatterbug
-Level: 8
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
 - Stun Spore
 - Bug Bite
+- Tackle
 
 Blipbug
-Level: 8
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -17765,16 +17772,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 8
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
 - Struggle Bug
-- Facade
+- First Impression
 - Memento
 
 Snom
-Level: 8
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -17783,7 +17790,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -17791,7 +17798,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -17800,14 +17807,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 8
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
-- Confuse Ray
 
 Pichu
-Level: 8
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -17816,13 +17822,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
 - Copycat
 - Covet
-- Last Resort
+- Perish Song
 
 Sprigatito @ Lum Berry
 Level: 7
@@ -17831,28 +17837,28 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
 - Bite
 - Tail Whip
-- Disarming Voice
+- Scratch
 
 Fuecoco @ Lum Berry
-Level: 8
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
 - Round
-- Slack Off
 - Belch
+- Slack Off
 
 Quaxly @ Lum Berry
-Level: 7
+Level: 10
 Ability: Moxie
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Acrobatics
+- Wing Attack
 - Work Up
 - Water Gun
 - Roost
 
 Tyrogue
-Level: 8
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -17861,7 +17867,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -17870,16 +17876,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 8
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Reflect
-- Draining Kiss
-- Calm Mind
+- Sweet Kiss
+- Defense Curl
+- Disarming Voice
+- Present
 
 Seedot
-Level: 8
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -17888,16 +17894,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 8
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
 - Water Gun
 - Astonish
-- Icy Wind
+- Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -17906,7 +17912,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -17915,16 +17921,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Growl
 
 Whismur
-Level: 8
+Level: 10
 Ability: Soundproof
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Howl
 - Pound
 - Astonish
 - Fake Tears
-- Circle Throw
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -17939,10 +17945,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 - Gust
 - Sweet Scent
-- Endeavor
 
 Togepi
-Level: 8
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -17950,9 +17955,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Life Dew
 - Present
 
-Nickit @ Oran Berry
-Level: 8
-Ability: Unburden
+Nickit
+Level: 7
+Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
 - Quick Attack
@@ -17960,7 +17965,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 8
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -17969,18 +17974,21 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 8
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
 - Smog
-- Acid Armor
+- Yawn
 - Ember
 
 Swinub
-Level: 9
-Ability: Thick Fat
+Level: 10
+Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Powder Snow
+- Flail
+- Mud Slap
 - Fissure
 
 === TRAINER_LYLE ===
@@ -17993,17 +18001,17 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -18011,40 +18019,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -18056,29 +18064,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -18089,46 +18098,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -18137,101 +18146,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -18239,14 +18250,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_JOSE ===
 Name: JOSE
@@ -18258,17 +18269,17 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -18276,40 +18287,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -18321,29 +18332,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -18354,46 +18366,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -18402,101 +18414,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -18504,14 +18518,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_DOUG ===
 Name: DOUG
@@ -18570,17 +18584,17 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -18588,40 +18602,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -18633,29 +18647,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -18666,46 +18681,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -18714,101 +18729,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -18816,14 +18833,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_JAMES_2 ===
 Name: JAMES
@@ -19004,260 +19021,23 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 2
 
-Cetoddle @ Chesto Berry
-Level: 15
-Ability: Sheer Force
+Geodude @ Lum Berry
+Level: 17
+Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
-- Icy Wind
-- Ice Shard
+- Rollout
 - Bulldoze
+- Rock Polish
+- Stealth Rock
 
-Skiddo @ Oran Berry
-Level: 15
-Ability: Grass Pelt
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grassy Terrain
-- Trailblaze
-- Mud Shot
-- Leech Seed
-
-Smoliv @ Sitrus Berry
-Level: 18
-Ability: Harvest
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
-
-Kabuto @ Oran Berry
-Level: 16
-Ability: Battle Armor
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Aqua Jet
-- Aerial Ace
-- Dig
-
-Pawmi @ Oran Berry
+Geodude-Alola @ Lum Berry
 Level: 17
-Ability: Iron Fist
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
-- Dig
-- Mach Punch
-- Volt Switch
-
-Trumbeak @ Oran Berry
-Level: 16
-Ability: Skill Link
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bullet Seed
-- Pluck
-- Knock Off
-- Flame Charge
-
-Naclstack @ Oran Berry
-Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rollout
+- Spark
 - Rock Polish
-- Headbutt
 - Sandstorm
-- Rock Slide
-
-Nacli @ Oran Berry
-Level: 18
-Ability: Sturdy
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rock Polish
-- Headbutt
-- Stomping Tantrum
-- Sandstorm
-
-Tympole @ Oran Berry
-Level: 17
-Ability: Water Absorb
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
-- Mud Shot
-- Weather Ball
-- Rain Dance
-
-Lickitung @ Oran Berry
-Level: 16
-Ability: Own Tempo
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
-- Protect
-- Brick Break
-
-Ledian @ Oran Berry
-Level: 18
-Ability: Iron Fist
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Mach Punch
-- Light Screen
-- Reflect
-- Counter
-
-Beedrill @ Oran Berry
-Level: 16
-Ability: Sniper
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fury Cutter
-- Sludge Bomb
-- Aerial Ace
-- Giga Drain
-
-Vanillite @ Oran Berry
-Level: 17
-Ability: Snow Cloak
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
-- Hail
-- Protect
-- Self-Destruct
-
-Wailmer @ Oran Berry
-Level: 16
-Ability: Water Veil
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Rock Tomb
-- Swagger
-- Substitute
-
-Spidops @ Oran Berry
-Level: 16
-Ability: Stakeout
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bug Bite
-- Assurance
-- Low Kick
-- Rock Tomb
-
-Ivysaur @ Oran Berry
-Level: 16
-Ability: Chlorophyll
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sleep Powder
-- Razor Leaf
-- Sunny Day
-- Weather Ball
-
-Wartortle @ Oran Berry
-Level: 16
-Ability: Rain Dish
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rain Dance
-- Water Pulse
-- Icy Wind
-- Protect
-
-Charmeleon @ Oran Berry
-Level: 16
-Ability: Solar Power
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sunny Day
-- Fire Fang
-- Thunder Punch
-- Metal Claw
-
-Togetic @ Eviolite
-Level: 18
-Ability: Super Luck
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Metronome
-
-Murkrow @ Oran Berry
-Level: 17
-Ability: Prankster
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
-- Wing Attack
-- Tailwind
-- Night Shade
-
-Minun @ Oran Berry
-Level: 15
-Ability: Volt Absorb
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
-- Thunder Wave
-- Electro Ball
-- Charge Beam
-
-Ponyta-Galar @ Oran Berry
-Level: 15
-Ability: Pastel Veil
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
-
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aqua Ring
-- Protect
-- Water Pulse
-- Ice Beam
-
-Tynamo @ Oran Berry
-Level: 18
-Ability: Levitate
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
-
-Grubbin @ Oran Berry
-Level: 18
-Ability: Swarm
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Pounce
-- Bite
-- Volt Switch
-- Charge Beam
-
-Roselia @ Oran Berry
-Level: 16
-Ability: Poison Point
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Mega Drain
-- Leech Seed
-- Extrasensory
-- Poison Jab
-
-Gothita @ Oran Berry
-Level: 18
-Ability: Competitive
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psybeam
-- Fake Tears
-- Grass Knot
-- Dark Pulse
-
-Tinkatink @ Oran Berry
-Level: 17
-Ability: Mold Breaker
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Metal Claw
-- Draining Kiss
-- Rock Tomb
-- Knock Off
-
-Poliwag @ Oran Berry
-Level: 18
-Ability: Water Absorb
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bubble Beam
-- Mud Shot
-- Icy Wind
-- Low Kick
 
 === TRAINER_ERIC ===
 Name: ERIC
@@ -20684,16 +20464,15 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 3
 
 Caterpie
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
 - Tackle
 - Bug Bite
-- Electroweb
 
 Weedle
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -20701,51 +20480,51 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 
 Sunkern
-Level: 8
+Level: 10
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Absorb
-- Grassy Terrain
-- Leech Seed
-- Ingrain
+- Mega Drain
+- Growth
+- Endeavor
 
 Azurill
-Level: 8
-Ability: Huge Power
+Level: 7
+Ability: Thick Fat
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
-- Present
+- Charm
+- Tail Whip
 - Perish Song
-- Aqua Jet
 
 Kricketot
-Level: 8
+Level: 7
 Ability: Shed Skin
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 - Growl
+- Bug Bite
 - Lunge
-- Skitter Smack
 
 Skitty
-Level: 8
+Level: 7
 Ability: Normalize
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Sing
 - Tackle
-- Double Team
+- Water Pulse
 
 Scatterbug
-Level: 8
+Level: 7
 Ability: Compound Eyes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Powder
 - Stun Spore
 - Bug Bite
+- Tackle
 
 Blipbug
-Level: 8
+Level: 7
 Ability: Swarm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Infestation
@@ -20754,16 +20533,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 
 Tarountula
-Level: 8
+Level: 7
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Assurance
 - Struggle Bug
-- Facade
+- First Impression
 - Memento
 
 Snom
-Level: 8
+Level: 7
 Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Powder Snow
@@ -20772,7 +20551,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Struggle Bug
 
 Wurmple
-Level: 9
+Level: 7
 Ability: Shield Dust
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - String Shot
@@ -20780,7 +20559,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Poison Sting
 
 Ralts
-Level: 9
+Level: 7
 Ability: Trace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
@@ -20789,14 +20568,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 
 Feebas
-Level: 8
+Level: 7
 Ability: Adaptability
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
-- Confuse Ray
 
 Pichu
-Level: 8
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Shock
@@ -20805,13 +20583,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Disarming Voice
 
 Igglybuff
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sing
 - Copycat
 - Covet
-- Last Resort
+- Perish Song
 
 Sprigatito @ Lum Berry
 Level: 7
@@ -20820,28 +20598,28 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leafage
 - Bite
 - Tail Whip
-- Disarming Voice
+- Scratch
 
 Fuecoco @ Lum Berry
-Level: 8
+Level: 7
 Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
 - Round
-- Slack Off
 - Belch
+- Slack Off
 
 Quaxly @ Lum Berry
-Level: 7
+Level: 10
 Ability: Moxie
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Acrobatics
+- Wing Attack
 - Work Up
 - Water Gun
 - Roost
 
 Tyrogue
-Level: 8
+Level: 7
 Ability: Guts
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
@@ -20850,7 +20628,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Punch
 
 Cleffa
-Level: 8
+Level: 7
 Ability: Cute Charm
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sweet Kiss
@@ -20859,16 +20637,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
 
 Happiny
-Level: 8
+Level: 7
 Ability: Serene Grace
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Reflect
-- Draining Kiss
-- Calm Mind
+- Sweet Kiss
+- Defense Curl
+- Disarming Voice
+- Present
 
 Seedot
-Level: 8
+Level: 7
 Ability: Early Bird
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bide
@@ -20877,16 +20655,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Leech Seed
 
 Lotad
-Level: 8
+Level: 7
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Absorb
 - Water Gun
 - Astonish
-- Icy Wind
+- Razor Leaf
 
 Bunnelby @ Oran Berry
-Level: 9
+Level: 7
 Ability: Cheek Pouch
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Laser Focus
@@ -20895,7 +20673,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 
 Zigzagoon-Galar
-Level: 9
+Level: 7
 Ability: Quick Feet
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sand Attack
@@ -20904,16 +20682,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Growl
 
 Whismur
-Level: 8
+Level: 10
 Ability: Soundproof
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Howl
 - Pound
 - Astonish
 - Fake Tears
-- Circle Throw
 
 Toxel
-Level: 9
+Level: 7
 Ability: Static
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Acid
@@ -20928,10 +20706,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
 - Gust
 - Sweet Scent
-- Endeavor
 
 Togepi
-Level: 8
+Level: 7
 Ability: Hustle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pound
@@ -20939,9 +20716,9 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Life Dew
 - Present
 
-Nickit @ Oran Berry
-Level: 8
-Ability: Unburden
+Nickit
+Level: 7
+Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tail Whip
 - Quick Attack
@@ -20949,7 +20726,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hone Claws
 
 Hoppip
-Level: 8
+Level: 7
 Ability: Infiltrator
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Strength Sap
@@ -20958,18 +20735,21 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fairy Wind
 
 Slugma
-Level: 8
+Level: 7
 Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Throw
 - Smog
-- Acid Armor
+- Yawn
 - Ember
 
 Swinub
-Level: 9
-Ability: Thick Fat
+Level: 10
+Ability: Flame Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Powder Snow
+- Flail
+- Mud Slap
 - Fissure
 
 === TRAINER_HAILEY ===
@@ -22098,19 +21878,19 @@ Gender: Male
 Music: Hiker
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
-Party Size: 4
+Party Size: 3
 
-Cetoddle @ Chesto Berry
-Level: 15
+Cetoddle @ Oran Berry
+Level: 18
 Ability: Sheer Force
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
+- Water Pulse
 - Icy Wind
 - Ice Shard
 - Bulldoze
 
 Skiddo @ Oran Berry
-Level: 15
+Level: 18
 Ability: Grass Pelt
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Grassy Terrain
@@ -22118,40 +21898,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mud Shot
 - Leech Seed
 
-Smoliv @ Sitrus Berry
+Dolliv @ Sitrus Berry
 Level: 18
 Ability: Harvest
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swift
+- Mega Drain
 - Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
+- Charm
 
 Kabuto @ Oran Berry
-Level: 16
+Level: 19
 Ability: Battle Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Aqua Jet
-- Aerial Ace
+- Absorb
 - Dig
 
-Pawmi @ Oran Berry
-Level: 17
-Ability: Iron Fist
+Pawmo @ Oran Berry
+Level: 18
+Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
+- Nuzzle
 - Dig
-- Mach Punch
-- Volt Switch
+- Bite
+- Thunder Fang
 
 Trumbeak @ Oran Berry
-Level: 16
+Level: 18
 Ability: Skill Link
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bullet Seed
 - Pluck
-- Knock Off
+- Roost
 - Flame Charge
 
 Naclstack @ Oran Berry
@@ -22163,29 +21943,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sandstorm
 - Rock Slide
 
-Nacli @ Oran Berry
+Naclstack @ Oran Berry
 Level: 18
 Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Polish
 - Headbutt
-- Stomping Tantrum
 - Sandstorm
+- Rock Slide
 
-Tympole @ Oran Berry
-Level: 17
+Palpitoad @ Oran Berry
+Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
+- Bubble Beam
 - Mud Shot
-- Weather Ball
-- Rain Dance
+- Bounce
+- Snore
 
 Lickitung @ Oran Berry
-Level: 16
+Level: 18
 Ability: Own Tempo
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
+- Wrap
+- Rollout
 - Protect
 - Brick Break
 
@@ -22196,46 +21977,46 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Light Screen
 - Reflect
-- Counter
+- Swift
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 18
 Ability: Sniper
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
 - Sludge Bomb
 - Aerial Ace
-- Giga Drain
+- Toxic Spikes
 
-Vanillite @ Oran Berry
-Level: 17
+Vanillish @ Oran Berry
+Level: 18
 Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
+- Icy Wind
 - Hail
 - Protect
-- Self-Destruct
+- Rest
 
 Wailmer @ Oran Berry
-Level: 16
+Level: 18
 Ability: Water Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Rock Tomb
-- Swagger
+- Strength
 - Substitute
 
 Spidops @ Oran Berry
-Level: 16
+Level: 18
 Ability: Stakeout
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bug Bite
-- Assurance
+- Block
 - Low Kick
 - Rock Tomb
 
 Ivysaur @ Oran Berry
-Level: 16
+Level: 18
 Ability: Chlorophyll
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sleep Powder
@@ -22244,101 +22025,103 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Wartortle @ Oran Berry
-Level: 16
+Level: 18
 Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
 - Icy Wind
-- Protect
+- Zen Headbutt
 
 Charmeleon @ Oran Berry
-Level: 16
+Level: 18
 Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Fire Fang
 - Thunder Punch
-- Metal Claw
+- Rock Tomb
 
 Togetic @ Eviolite
-Level: 18
+Level: 19
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metronome
 
 Murkrow @ Oran Berry
-Level: 17
+Level: 19
 Ability: Prankster
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
+- Confuse Ray
 - Wing Attack
-- Tailwind
+- Thief
 - Night Shade
 
 Minun @ Oran Berry
-Level: 15
+Level: 18
 Ability: Volt Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
+- Encore
 - Thunder Wave
 - Electro Ball
 - Charge Beam
 
 Ponyta-Galar @ Oran Berry
-Level: 15
+Level: 18
 Ability: Pastel Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
+- Flame Charge
+- Will-O-Wisp
+- Stomp
+- Psybeam
 
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
+Corsola-Galar @ Oran Berry
+Level: 18
+Ability: Cursed Body
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ancient Power
 - Aqua Ring
-- Protect
 - Water Pulse
-- Ice Beam
+- Attract
 
-Tynamo @ Oran Berry
+Eelektrik @ Oran Berry
 Level: 18
 Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
+- Ancient Power
+- Aqua Ring
+- Water Pulse
+- Attract
 
-Grubbin @ Oran Berry
+Charjabug @ Oran Berry
 Level: 18
-Ability: Swarm
+Ability: Battery
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pounce
 - Bite
 - Volt Switch
-- Charge Beam
+- Mud Slap
 
 Roselia @ Oran Berry
-Level: 16
+Level: 18
 Ability: Poison Point
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Drain
 - Leech Seed
-- Extrasensory
+- Toxic Spikes
 - Poison Jab
 
-Gothita @ Oran Berry
+Gothorita @ Oran Berry
 Level: 18
 Ability: Competitive
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psybeam
 - Fake Tears
 - Grass Knot
-- Dark Pulse
+- Tera Blast
 
-Tinkatink @ Oran Berry
-Level: 17
+Tinkatuff @ Oran Berry
+Level: 18
 Ability: Mold Breaker
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Metal Claw
@@ -22346,14 +22129,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Tomb
 - Knock Off
 
-Poliwag @ Oran Berry
+Poliwhirl @ Oran Berry
 Level: 18
 Ability: Water Absorb
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bubble Beam
 - Mud Shot
 - Icy Wind
-- Low Kick
+- Brick Break
 
 === TRAINER_JOHNSON ===
 Name: JOHNSON
@@ -22365,260 +22148,23 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Party Size: 2
 
-Cetoddle @ Chesto Berry
-Level: 15
-Ability: Sheer Force
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rest
-- Icy Wind
-- Ice Shard
-- Bulldoze
-
-Skiddo @ Oran Berry
-Level: 15
-Ability: Grass Pelt
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grassy Terrain
-- Trailblaze
-- Mud Shot
-- Leech Seed
-
-Smoliv @ Sitrus Berry
-Level: 18
-Ability: Harvest
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Endure
-- Magical Leaf
-- Substitute
-- Giga Drain
-
-Kabuto @ Oran Berry
-Level: 16
-Ability: Battle Armor
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Aqua Jet
-- Aerial Ace
-- Dig
-
-Pawmi @ Oran Berry
+Sandshrew @ Lum Berry
 Level: 17
-Ability: Iron Fist
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
-- Dig
-- Mach Punch
-- Volt Switch
-
-Trumbeak @ Oran Berry
-Level: 16
-Ability: Skill Link
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bullet Seed
-- Pluck
-- Knock Off
-- Flame Charge
-
-Naclstack @ Oran Berry
-Level: 18
-Ability: Sturdy
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rock Polish
-- Headbutt
-- Sandstorm
-- Rock Slide
-
-Nacli @ Oran Berry
-Level: 18
-Ability: Sturdy
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rock Polish
-- Headbutt
-- Stomping Tantrum
-- Sandstorm
-
-Tympole @ Oran Berry
-Level: 17
-Ability: Water Absorb
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Icy Wind
-- Mud Shot
-- Weather Ball
-- Rain Dance
-
-Lickitung @ Oran Berry
-Level: 16
-Ability: Own Tempo
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Facade
-- Protect
-- Brick Break
-
-Ledian @ Oran Berry
-Level: 18
-Ability: Iron Fist
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Mach Punch
-- Light Screen
-- Reflect
-- Counter
-
-Beedrill @ Oran Berry
-Level: 16
-Ability: Sniper
+Ability: Sand Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fury Cutter
-- Sludge Bomb
-- Aerial Ace
-- Giga Drain
-
-Vanillite @ Oran Berry
-Level: 17
-Ability: Snow Cloak
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Avalanche
-- Hail
-- Protect
-- Self-Destruct
-
-Wailmer @ Oran Berry
-Level: 16
-Ability: Water Veil
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Rock Tomb
-- Swagger
-- Substitute
-
-Spidops @ Oran Berry
-Level: 16
-Ability: Stakeout
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bug Bite
-- Assurance
-- Low Kick
-- Rock Tomb
-
-Ivysaur @ Oran Berry
-Level: 16
-Ability: Chlorophyll
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sleep Powder
-- Razor Leaf
-- Sunny Day
-- Weather Ball
-
-Wartortle @ Oran Berry
-Level: 16
-Ability: Rain Dish
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rain Dance
-- Water Pulse
-- Icy Wind
-- Protect
-
-Charmeleon @ Oran Berry
-Level: 16
-Ability: Solar Power
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sunny Day
-- Fire Fang
-- Thunder Punch
+- Bulldoze
 - Metal Claw
+- Sandstorm
 
-Togetic @ Eviolite
-Level: 18
-Ability: Super Luck
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Metronome
-
-Murkrow @ Oran Berry
+Sandshrew-Alola @ Lum Berry
 Level: 17
-Ability: Prankster
+Ability: Slush Rush
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flatter
-- Wing Attack
-- Tailwind
-- Night Shade
-
-Minun @ Oran Berry
-Level: 15
-Ability: Volt Absorb
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Grass Knot
-- Thunder Wave
-- Electro Ball
-- Charge Beam
-
-Ponyta-Galar @ Oran Berry
-Level: 15
-Ability: Pastel Veil
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fairy Wind
-- Double Team
-- Solar Beam
-- Future Sight
-
-Corsola @ Oran Berry
-Level: 16
-Ability: Regenerator
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aqua Ring
-- Protect
-- Water Pulse
-- Ice Beam
-
-Tynamo @ Oran Berry
-Level: 18
-Ability: Levitate
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Charge Beam
-- Tera Blast
-
-Grubbin @ Oran Berry
-Level: 18
-Ability: Swarm
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Pounce
-- Bite
-- Volt Switch
-- Charge Beam
-
-Roselia @ Oran Berry
-Level: 16
-Ability: Poison Point
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Mega Drain
-- Leech Seed
-- Extrasensory
-- Poison Jab
-
-Gothita @ Oran Berry
-Level: 18
-Ability: Competitive
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psybeam
-- Fake Tears
-- Grass Knot
-- Dark Pulse
-
-Tinkatink @ Oran Berry
-Level: 17
-Ability: Mold Breaker
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Metal Claw
-- Draining Kiss
-- Rock Tomb
-- Knock Off
-
-Poliwag @ Oran Berry
-Level: 18
-Ability: Water Absorb
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bubble Beam
-- Mud Shot
 - Icy Wind
-- Low Kick
+- Fury Cutter
+- Metal Claw
+- Protect
 
 === TRAINER_MELINA ===
 Name: MELINA
