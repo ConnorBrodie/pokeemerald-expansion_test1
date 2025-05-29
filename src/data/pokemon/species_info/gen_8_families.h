@@ -4927,7 +4927,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Snom,
             gShinyOverworldPalette_Snom
         )
-        .levelUpLearnset = sSnomLevelUpLearnset,
+        .levelUpLearnset = sSobbleLevelUpLearnset,
         .teachableLearnset = sSnomTeachableLearnset,
         .eggMoveLearnset = sSnomEggMoveLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 15, SPECIES_FROSMOTH}),
@@ -5235,7 +5235,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_IndeedeeMale,
             gShinyOverworldPalette_IndeedeeMale
         )
-        .levelUpLearnset = sIndeedeeMaleLevelUpLearnset,
+        .levelUpLearnset = sIndeedeeMLevelUpLearnset,
         .teachableLearnset = sIndeedeeMaleTeachableLearnset,
         .formSpeciesIdTable = sIndeedeeFormSpeciesIdTable,
     },
@@ -5296,7 +5296,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_IndeedeeFemale,
             gShinyOverworldPalette_IndeedeeFemale
         )
-        .levelUpLearnset = sIndeedeeFemaleLevelUpLearnset,
+        .levelUpLearnset = sIndeedeeFLevelUpLearnset,
         .teachableLearnset = sIndeedeeFemaleTeachableLearnset,
         .eggMoveLearnset = sIndeedeeFemaleEggMoveLearnset,
         .formSpeciesIdTable = sIndeedeeFormSpeciesIdTable,
@@ -6730,7 +6730,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gShinyOverworldPalette_Urshifu
         )
         .isLegendary = TRUE,
-        .levelUpLearnset = sUrshifuSingleStrikeStyleLevelUpLearnset,
+        .levelUpLearnset = sUrshifuSingleStrikeLevelUpLearnset,
         .teachableLearnset = sUrshifuSingleStrikeStyleTeachableLearnset,
         .formSpeciesIdTable = sUrshifuFormSpeciesIdTable,
         .formChangeTable = sUrshifuSingleStrikeFormChangeTable,
@@ -6787,7 +6787,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         FOOTPRINT(Urshifu)
         .isLegendary = TRUE,
         .isGigantamax = TRUE,
-        .levelUpLearnset = sUrshifuSingleStrikeStyleLevelUpLearnset,
+        .levelUpLearnset = sUrshifuSingleStrikeLevelUpLearnset,
         .teachableLearnset = sUrshifuSingleStrikeStyleTeachableLearnset,
         .formSpeciesIdTable = sUrshifuFormSpeciesIdTable,
     },
@@ -6850,7 +6850,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gShinyOverworldPalette_Urshifu
         )
         .isLegendary = TRUE,
-        .levelUpLearnset = sUrshifuRapidStrikeStyleLevelUpLearnset,
+        .levelUpLearnset = sUrshifuRapidStrikeLevelUpLearnset,
         .teachableLearnset = sUrshifuRapidStrikeStyleTeachableLearnset,
         .formSpeciesIdTable = sUrshifuFormSpeciesIdTable,
         .formChangeTable = sUrshifuRapidStrikeFormChangeTable,
@@ -6907,7 +6907,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         FOOTPRINT(Urshifu)
         .isLegendary = TRUE,
         .isGigantamax = TRUE,
-        .levelUpLearnset = sUrshifuRapidStrikeStyleLevelUpLearnset,
+        .levelUpLearnset = sUrshifuRapidStrikeLevelUpLearnset,
         .teachableLearnset = sUrshifuRapidStrikeStyleTeachableLearnset,
         .formSpeciesIdTable = sUrshifuFormSpeciesIdTable,
     },
@@ -7411,7 +7411,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .isLegendary = TRUE,
         .cannotBeTraded = TRUE,
         .isFrontierBanned = TRUE,
-        .levelUpLearnset = sCalyrexIceRiderLevelUpLearnset,
+        .levelUpLearnset = sCalyrexIceLevelUpLearnset,
         .teachableLearnset = sCalyrexIceRiderTeachableLearnset,
         .formSpeciesIdTable = sCalyrexFormSpeciesIdTable,
     },
@@ -7475,7 +7475,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .isLegendary = TRUE,
         .cannotBeTraded = TRUE,
         .isFrontierBanned = TRUE,
-        .levelUpLearnset = sCalyrexShadowRiderLevelUpLearnset,
+        .levelUpLearnset = sCalyrexShadowLevelUpLearnset,
         .teachableLearnset = sCalyrexShadowRiderTeachableLearnset,
         .formSpeciesIdTable = sCalyrexFormSpeciesIdTable,
     },

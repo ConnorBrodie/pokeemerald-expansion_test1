@@ -248,8 +248,8 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
             gShinyOverworldPalette_DecidueyeHisuian
         )
         .isHisuianForm = TRUE,
-        .levelUpLearnset = sDecidueyeHisuianLevelUpLearnset,
-        .teachableLearnset = sDecidueyeHisuianTeachableLearnset,
+        .levelUpLearnset = sDecidueyeHisuiLevelUpLearnset,
+        .teachableLearnset = sDecidueyeHisuiTeachableLearnset,
         .formSpeciesIdTable = sDecidueyeFormSpeciesIdTable,
     },
 #endif //P_HISUIAN_FORMS

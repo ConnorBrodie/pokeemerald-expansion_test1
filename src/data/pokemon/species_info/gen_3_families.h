@@ -1105,9 +1105,9 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_ZigzagoonGalarian
         )
         .isGalarianForm = TRUE,
-        .levelUpLearnset = sZigzagoonGalarianLevelUpLearnset,
-        .teachableLearnset = sZigzagoonGalarianTeachableLearnset,
-        .eggMoveLearnset = sZigzagoonGalarianEggMoveLearnset,
+        .levelUpLearnset = sZigzagoonGalarLevelUpLearnset,
+        .teachableLearnset = sZigzagoonGalarTeachableLearnset,
+        .eggMoveLearnset = sZigzagoonGalarEggMoveLearnset,
         .formSpeciesIdTable = sZigzagoonFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_LEVEL, 20, SPECIES_LINOONE_GALARIAN}),
     },
@@ -1169,8 +1169,8 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_LinooneGalarian
         )
         .isGalarianForm = TRUE,
-        .levelUpLearnset = sLinooneGalarianLevelUpLearnset,
-        .teachableLearnset = sLinooneGalarianTeachableLearnset,
+        .levelUpLearnset = sLinooneGalarLevelUpLearnset,
+        .teachableLearnset = sLinooneGalarTeachableLearnset,
         .formSpeciesIdTable = sLinooneFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_LEVEL_NIGHT, 35, SPECIES_OBSTAGOON}),
     },
